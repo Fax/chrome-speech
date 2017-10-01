@@ -10,6 +10,8 @@ function init() {
 
   // Random article from wikipedia
   $('.another').click(function () {
+    var synth = window.speechSynthesis;
+    synth.cancel();
     window.location = window.location;
   });
   var randomUrl = 'https://fr.wikipedia.org/w/api.php?format=json&action=query&generator=random&grnnamespace=0&exlimit=1&prop=extracts|langlinks&grnlimit=1&origin=*';
