@@ -9,15 +9,27 @@ function init() {
 
 
   // Random article from wikipedia
-  $('.another').click(function () { 
+  $('.another').click(function () {
     window.location = window.location;
   });
-  var randomUrl = 'https://fr.wikipedia.org/w/api.php?format=json&action=query&generator=random&grnnamespace=0&exlimit=1&prop=extracts&grnlimit=1&origin=*';
+  var randomUrl = 'https://fr.wikipedia.org/w/api.php?format=json&action=query&generator=random&grnnamespace=0&exlimit=1&prop=extracts|langlinks&grnlimit=1&origin=*';
 
   $.get(randomUrl, function (response) {
-    $('.another').show();    
+    $('.another').show();
     var article = parseWikipediaResponse(response);
-    console.log(article);
+
+    if (article.langlinks) {
+      var englishObject = getEnglishLanguage(article.langlinks);
+      console.log('the english object', englishObject);
+      if (englishObject) {
+        var link = toLink(englishObject);
+        retrieveAnotherArticle(link);
+      } else {
+        $('trans-article').html('This article has not been translated to english yet.');
+      }
+    } else {
+      $('trans-article').html('No other languages found');
+    }
     $('title').html(article.title);
     $('.title').html(article.title);
     $('article').html(article.extract);
@@ -26,20 +38,43 @@ function init() {
     theFirstParagraph.css('text-decoration', 'underline');
     var msg = generateMessage(toRead, frenchVoice);
 
-    speechUtteranceChunker(msg, {
-      chunkLength: 150
-    }, function () {
-      //some code to execute when done
-      console.log('done');
-    });
+    // speechUtteranceChunker(msg, {
+    //   chunkLength: 150
+    // }, function () {
+    //   //some code to execute when done
+    //   console.log('done');
+    // });
     //s.speak(msg);
   });
 
 }
 
+function getEnglishLanguage(languages) {
+  var totalLangs = languages.length;
+  for (var i = 0; i < totalLangs; i = i + 1) {
+    if (languages[i].lang == 'en') {
+      return languages[i];
+    }
+  }
+  return null;
+}
+
+function retrieveAnotherArticle(articleLink) {
+  $.get(articleLink, function (response) {
+    var article = parseWikipediaResponse(response);
+    $('.trans-title').text(article.title);
+    $('trans-article').html(article.extract);
+  });
+}
+
+function toLink(linkObject) {
+  return 'http://en.wikipedia.org/w/api.php?action=query&format=json&exlimit=1&prop=extracts&origin=*&titles=' + linkObject['*'];
+}
+
 function parseWikipediaResponse(res) {
   var p = res.query.pages;
-  return p[Object.keys(p)[0]];
+  var page = p[Object.keys(p)[0]]
+  return page;
 }
 
 function generateMessage(text, voice) {
@@ -57,7 +92,7 @@ var speechUtteranceChunker = function (utt, settings, callback) {
   settings = settings || {};
   var newUtt;
   var txt = (settings && settings.offset !== undefined ? utt.text.substring(settings.offset) : utt.text).trim();
-  txt = txt.replace(/^(\.)/,"");
+  txt = txt.replace(/^(\.)/, "");
   if (utt.voice && utt.voice.voiceURI === 'native') { // Not part of the spec
     newUtt = utt;
     newUtt.text = txt;
