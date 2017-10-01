@@ -10,6 +10,7 @@ function init() {
 
   // Random article from wikipedia
   $('.another').click(function () {
+    speechUtteranceChunker.cancel = true;
     var synth = window.speechSynthesis;
     synth.cancel();
     window.location = window.location;
