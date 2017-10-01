@@ -111,7 +111,7 @@ var speechUtteranceChunker = function (utt, settings, callback) {
     var pattRegex = new RegExp('^[\\s\\S]{' + Math.floor(chunkLength / 2) + ',' + chunkLength + '}[.!?,]{1}|^[\\s\\S]{1,' + chunkLength + '}$|^[\\s\\S]{1,' + chunkLength + '} ');
     var chunkArr = txt.match(pattRegex);
 
-    if (chunkArr[0] === undefined || chunkArr[0].length <= 2) {
+    if (!chunkArr || chunkArr[0] === undefined || chunkArr[0].length <= 2) {
       //call once all text has been spoken...
       if (callback !== undefined) {
         callback();
