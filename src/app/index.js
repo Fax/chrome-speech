@@ -15,7 +15,12 @@ function init() {
     synth.cancel();
     window.location = window.location;
   });
-  var randomUrl = 'https://fr.wikipedia.org/w/api.php?format=json&action=query&generator=random&grnnamespace=0&exlimit=1&prop=extracts|langlinks&grnlimit=1&origin=*';
+  var randomUrlWikipedia = 'https://fr.wikipedia.org';
+  var randomUrlWiktionary = 'https://fr.wiktionary.org';
+
+  var rnd = Math.floor(Math.random() * 2) + 1;
+  var choosenUrl = (rnd > 1 ? randomUrlWiktionary : randomUrlWikipedia);
+  var randomUrl = choosenUrl + '/w/api.php?format=json&action=query&generator=random&grnnamespace=0&exlimit=1&prop=extracts|langlinks&grnlimit=1&origin=*';
 
   $.get(randomUrl, function (response) {
     $('.another').show();
@@ -25,7 +30,7 @@ function init() {
       var englishObject = getEnglishLanguage(article.langlinks);
       console.log('the english object', englishObject);
       if (englishObject) {
-        var link = toLink(englishObject);
+        var link = choosenUrl + toLink(englishObject);
         retrieveAnotherArticle(link);
       } else {
         $('trans-article').html('This article has not been translated to english yet.');
@@ -36,9 +41,18 @@ function init() {
     $('title').html(article.title);
     $('.title').html(article.title);
     $('article').html(article.extract);
-    var theFirstParagraph = $('article>p:nth(0)');
-    var toRead = theFirstParagraph.text();
-    theFirstParagraph.css('text-decoration', 'underline');
+    var toRead = '';
+    if (rnd == 1) {
+      var theFirstParagraph = $('article>p:nth(0)');
+      toRead = theFirstParagraph.text();
+      theFirstParagraph.css('text-decoration', 'underline');
+      console.log('wiki', toRead);
+
+    } else {
+      var dictionaryEntry = $('article');
+      toRead = article.title + ': ' + dictionaryEntry.text();
+    }
+
     var msg = generateMessage(toRead, frenchVoice);
 
     speechUtteranceChunker(msg, {
@@ -70,7 +84,7 @@ function retrieveAnotherArticle(articleLink) {
 }
 
 function toLink(linkObject) {
-  return 'http://en.wikipedia.org/w/api.php?action=query&format=json&exlimit=1&prop=extracts&origin=*&titles=' + linkObject['*'];
+  return '/w/api.php?action=query&format=json&exlimit=1&prop=extracts&origin=*&titles=' + linkObject['*'];
 }
 
 function parseWikipediaResponse(res) {
