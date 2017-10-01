@@ -1,24 +1,40 @@
-function init () {
+function init() {
   console.log('init called');
 
   var s = window.speechSynthesis;
 
 
-
-  var msg = new SpeechSynthesisUtterance();
   var voices = window.speechSynthesis.getVoices();
-  msg.voice = voices[8]; // Note: some voices don't support altering params
+  var frenchVoice = voices[8]; // Note: some voices don't support altering params
+
+
+    // Random article from wikipedia
+  
+  var randomUrl = 'https://fr.wikipedia.org/w/api.php?format=json&action=query&generator=random&grnnamespace=0&prop=extracts&grnlimit=1';
+
+  $.get(randomUrl, function (response) {
+    console.log(response.query.pages);
+   // $('article').html()
+    // var msg = generateMessage('Bonjour!', frenchVoice);
+    // s.speak(msg);
+  });
+
+}
+
+function generateMessage(text, voice) {
+  var msg = new SpeechSynthesisUtterance();
+
+  msg.voice = voice; // Note: some voices don't support altering params
   msg.voiceURI = 'native';
   msg.volume = 1; // 0 to 1
-  msg.text = 'Bonjour Laure. Avez-vous des nouvelles sur l\'appartement?';
+  msg.text = text;
   msg.lang = 'fr-FR';
-  
-  msg.onend = function(e) {
-    console.log('Finished in ' + event.elapsedTime + ' seconds.');
-  };
-  
-  s.speak(msg);
+  return msg;
 }
+
+
+
+
 
 
 
