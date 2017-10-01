@@ -38,13 +38,12 @@ function init() {
     theFirstParagraph.css('text-decoration', 'underline');
     var msg = generateMessage(toRead, frenchVoice);
 
-    // speechUtteranceChunker(msg, {
-    //   chunkLength: 150
-    // }, function () {
-    //   //some code to execute when done
-    //   console.log('done');
-    // });
-    //s.speak(msg);
+    speechUtteranceChunker(msg, {
+      chunkLength: 150
+    }, function () {
+      //some code to execute when done
+      console.log('done');
+    });
   });
 
 }
