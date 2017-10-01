@@ -9,20 +9,25 @@ function init() {
 
 
   // Random article from wikipedia
-
-  var randomUrl = 'https://fr.wikipedia.org/w/api.php?format=json&action=query&generator=random&grnnamespace=0&prop=extracts&grnlimit=1&origin=*';
+  $('.another').click(function () { 
+    window.location = window.location;
+  });
+  var randomUrl = 'https://fr.wikipedia.org/w/api.php?format=json&action=query&generator=random&grnnamespace=0&exlimit=1&prop=extracts&grnlimit=1&origin=*';
 
   $.get(randomUrl, function (response) {
+    $('.another').show();    
     var article = parseWikipediaResponse(response);
     console.log(article);
     $('title').html(article.title);
     $('.title').html(article.title);
     $('article').html(article.extract);
-    var toRead = $('article>p:nth(0)').text();
+    var theFirstParagraph = $('article>p:nth(0)');
+    var toRead = theFirstParagraph.text();
+    theFirstParagraph.css('text-decoration', 'underline');
     var msg = generateMessage(toRead, frenchVoice);
 
     speechUtteranceChunker(msg, {
-      chunkLength: 120
+      chunkLength: 150
     }, function () {
       //some code to execute when done
       console.log('done');
@@ -43,7 +48,7 @@ function generateMessage(text, voice) {
   msg.voice = voice; // Note: some voices don't support altering params
   msg.voiceURI = 'native';
   msg.volume = 1; // 0 to 1
-  msg.text = text;
+  msg.text = text.trim();
   msg.lang = 'fr-FR';
   return msg;
 }
@@ -51,10 +56,8 @@ function generateMessage(text, voice) {
 var speechUtteranceChunker = function (utt, settings, callback) {
   settings = settings || {};
   var newUtt;
-  var txt = (settings && settings.offset !== undefined ? utt.text.substring(settings.offset) : utt.text);
-  if (txt[0] == '.') {
-    txt[0] = '';
-  }
+  var txt = (settings && settings.offset !== undefined ? utt.text.substring(settings.offset) : utt.text).trim();
+  txt = txt.replace(/^(\.)/,"");
   if (utt.voice && utt.voice.voiceURI === 'native') { // Not part of the spec
     newUtt = utt;
     newUtt.text = txt;
