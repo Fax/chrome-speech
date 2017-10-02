@@ -30,7 +30,7 @@ function init() {
       var englishObject = getEnglishLanguage(article.langlinks);
       console.log('the english object', englishObject);
       if (englishObject) {
-        var link = choosenUrl + toLink(englishObject);
+        var link = 'https://en.wikipedia.org' + toLink(englishObject);
         retrieveAnotherArticle(link);
       } else {
         $('trans-article').html('This article has not been translated to english yet.');
