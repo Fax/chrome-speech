@@ -1,0 +1,8002 @@
+[
+  {
+    "id": 1,
+    "base": "abash",
+    "past": "abashed",
+    "participle": "abashed",
+    "third": "abashes",
+    "ing": "abashing"
+  },
+  {
+    "id": 2,
+    "base": "abate",
+    "past": "abated",
+    "participle": "abated",
+    "third": "abates",
+    "ing": "abating"
+  },
+  {
+    "id": 3,
+    "base": "abide",
+    "past": "abode",
+    "participle": "abode",
+    "third": "abides",
+    "ing": "abiding"
+  },
+  {
+    "id": 4,
+    "base": "absorb",
+    "past": "absorbed",
+    "participle": "absorbed",
+    "third": "absorbs",
+    "ing": "absorbing"
+  },
+  {
+    "id": 5,
+    "base": "accept",
+    "past": "accepted",
+    "participle": "accepted",
+    "third": "accepts",
+    "ing": "accepting"
+  },
+  {
+    "id": 6,
+    "base": "accompany",
+    "past": "accompanied",
+    "participle": "accompanied",
+    "third": "accompanies",
+    "ing": "accompanying"
+  },
+  {
+    "id": 7,
+    "base": "ache",
+    "past": "ached",
+    "participle": "ached",
+    "third": "aches",
+    "ing": "aching"
+  },
+  {
+    "id": 8,
+    "base": "achieve",
+    "past": "achieved",
+    "participle": "achieved",
+    "third": "achieves",
+    "ing": "achieving"
+  },
+  {
+    "id": 9,
+    "base": "acquire",
+    "past": "acquired",
+    "participle": "acquired",
+    "third": "acquires",
+    "ing": "acquiring"
+  },
+  {
+    "id": 10,
+    "base": "act",
+    "past": "acted",
+    "participle": "acted",
+    "third": "acts",
+    "ing": "acting"
+  },
+  {
+    "id": 11,
+    "base": "add",
+    "past": "added",
+    "participle": "added",
+    "third": "adds",
+    "ing": "adding"
+  },
+  {
+    "id": 12,
+    "base": "address",
+    "past": "addressed",
+    "participle": "addressed",
+    "third": "addresses",
+    "ing": "addressing"
+  },
+  {
+    "id": 13,
+    "base": "adjust",
+    "past": "adjusted",
+    "participle": "adjusted",
+    "third": "adjusts",
+    "ing": "adjusting"
+  },
+  {
+    "id": 14,
+    "base": "admire",
+    "past": "admired",
+    "participle": "admired",
+    "third": "admires",
+    "ing": "admiring"
+  },
+  {
+    "id": 15,
+    "base": "admit",
+    "past": "admitted",
+    "participle": "admitted",
+    "third": "admits",
+    "ing": "admitting"
+  },
+  {
+    "id": 16,
+    "base": "advise",
+    "past": "advised",
+    "participle": "advised",
+    "third": "advises",
+    "ing": "advising"
+  },
+  {
+    "id": 17,
+    "base": "afford",
+    "past": "afforded",
+    "participle": "afforded",
+    "third": "affords",
+    "ing": "affording"
+  },
+  {
+    "id": 18,
+    "base": "agree",
+    "past": "agreed",
+    "participle": "agreed",
+    "third": "agrees",
+    "ing": "agreeing"
+  },
+  {
+    "id": 19,
+    "base": "alight",
+    "past": "alit",
+    "participle": "alit",
+    "third": "alights",
+    "ing": "alighting"
+  },
+  {
+    "id": 20,
+    "base": "allow",
+    "past": "allowed",
+    "participle": "allowed",
+    "third": "allows",
+    "ing": "allowing"
+  },
+  {
+    "id": 21,
+    "base": "animate",
+    "past": "animated",
+    "participle": "animated",
+    "third": "animates",
+    "ing": "animating"
+  },
+  {
+    "id": 22,
+    "base": "announce",
+    "past": "announced",
+    "participle": "announced",
+    "third": "announces",
+    "ing": "announcing"
+  },
+  {
+    "id": 23,
+    "base": "answer",
+    "past": "answered",
+    "participle": "answered",
+    "third": "answers",
+    "ing": "answering"
+  },
+  {
+    "id": 24,
+    "base": "apologize",
+    "past": "apologized",
+    "participle": "apologized",
+    "third": "apologizes",
+    "ing": "apologizing"
+  },
+  {
+    "id": 25,
+    "base": "appear",
+    "past": "appeared",
+    "participle": "appeared",
+    "third": "appears",
+    "ing": "appearing"
+  },
+  {
+    "id": 26,
+    "base": "applaud",
+    "past": "applauded",
+    "participle": "applauded",
+    "third": "applauds",
+    "ing": "applauding"
+  },
+  {
+    "id": 27,
+    "base": "apply",
+    "past": "applied",
+    "participle": "applied",
+    "third": "applies",
+    "ing": "applying"
+  },
+  {
+    "id": 28,
+    "base": "approach",
+    "past": "approached",
+    "participle": "approached",
+    "third": "approaches",
+    "ing": "approaching"
+  },
+  {
+    "id": 29,
+    "base": "approve",
+    "past": "approved",
+    "participle": "approved",
+    "third": "approves",
+    "ing": "approving"
+  },
+  {
+    "id": 30,
+    "base": "argue",
+    "past": "argued",
+    "participle": "argued",
+    "third": "argues",
+    "ing": "arguing"
+  },
+  {
+    "id": 31,
+    "base": "arise",
+    "past": "arose",
+    "participle": "arisen",
+    "third": "arises",
+    "ing": "arising"
+  },
+  {
+    "id": 32,
+    "base": "arrange",
+    "past": "arranged",
+    "participle": "arranged",
+    "third": "arranges",
+    "ing": "arranging"
+  },
+  {
+    "id": 33,
+    "base": "arrest",
+    "past": "arrested",
+    "participle": "arrested",
+    "third": "arrests",
+    "ing": "arresting"
+  },
+  {
+    "id": 34,
+    "base": "ask",
+    "past": "asked",
+    "participle": "asked",
+    "third": "asks",
+    "ing": "asking"
+  },
+  {
+    "id": 35,
+    "base": "assert",
+    "past": "asserted",
+    "participle": "asserted",
+    "third": "asserts",
+    "ing": "asserting"
+  },
+  {
+    "id": 36,
+    "base": "assort",
+    "past": "assorted",
+    "participle": "assorted",
+    "third": "assorts",
+    "ing": "assorting"
+  },
+  {
+    "id": 37,
+    "base": "astonish",
+    "past": "astonished",
+    "participle": "astonished",
+    "third": "astonishes",
+    "ing": "astonishing"
+  },
+  {
+    "id": 38,
+    "base": "attack",
+    "past": "attacked",
+    "participle": "attacked",
+    "third": "attacks",
+    "ing": "attacking"
+  },
+  {
+    "id": 39,
+    "base": "attend",
+    "past": "attended",
+    "participle": "attended",
+    "third": "attends",
+    "ing": "attending"
+  },
+  {
+    "id": 40,
+    "base": "attract",
+    "past": "attracted",
+    "participle": "attracted",
+    "third": "attracts",
+    "ing": "attracting"
+  },
+  {
+    "id": 41,
+    "base": "audit",
+    "past": "audited",
+    "participle": "audited",
+    "third": "audits",
+    "ing": "auditing"
+  },
+  {
+    "id": 42,
+    "base": "avoid",
+    "past": "avoided",
+    "participle": "avoided",
+    "third": "avoids",
+    "ing": "avoiding"
+  },
+  {
+    "id": 43,
+    "base": "awake",
+    "past": "awoke",
+    "participle": "awoken",
+    "third": "awakes",
+    "ing": "awaking"
+  },
+  {
+    "id": 44,
+    "base": "bang",
+    "past": "banged",
+    "participle": "banged",
+    "third": "bangs",
+    "ing": "banging"
+  },
+  {
+    "id": 45,
+    "base": "banish",
+    "past": "banished",
+    "participle": "banished",
+    "third": "banishes",
+    "ing": "banishing"
+  },
+  {
+    "id": 46,
+    "base": "bash",
+    "past": "bashed",
+    "participle": "bashed",
+    "third": "bashes",
+    "ing": "bashing"
+  },
+  {
+    "id": 47,
+    "base": "bat",
+    "past": "batted",
+    "participle": "batted",
+    "third": "bats",
+    "ing": "batting"
+  },
+  {
+    "id": 48,
+    "base": "be (am,are)",
+    "past": "was / were",
+    "participle": "been",
+    "third": "is",
+    "ing": "being"
+  },
+  {
+    "id": 49,
+    "base": "bear",
+    "past": "bore",
+    "participle": "born",
+    "third": "bears",
+    "ing": "bearing"
+  },
+  {
+    "id": 50,
+    "base": "bear",
+    "past": "bore",
+    "participle": "borne",
+    "third": "bears",
+    "ing": "bearing"
+  },
+  {
+    "id": 51,
+    "base": "beat",
+    "past": "beat",
+    "participle": "beaten",
+    "third": "beats",
+    "ing": "beating"
+  },
+  {
+    "id": 52,
+    "base": "beautify",
+    "past": "beautified",
+    "participle": "beautified",
+    "third": "beautifies",
+    "ing": "beautifying"
+  },
+  {
+    "id": 53,
+    "base": "become",
+    "past": "became",
+    "participle": "become",
+    "third": "becomes",
+    "ing": "becoming"
+  },
+  {
+    "id": 54,
+    "base": "befall",
+    "past": "befell",
+    "participle": "befallen",
+    "third": "befalls",
+    "ing": "befalling"
+  },
+  {
+    "id": 55,
+    "base": "beg",
+    "past": "begged",
+    "participle": "begged",
+    "third": "begs",
+    "ing": "begging"
+  },
+  {
+    "id": 56,
+    "base": "begin",
+    "past": "began",
+    "participle": "begun",
+    "third": "begins",
+    "ing": "beginning"
+  },
+  {
+    "id": 57,
+    "base": "behave",
+    "past": "behaved",
+    "participle": "behaved",
+    "third": "behaves",
+    "ing": "behaving"
+  },
+  {
+    "id": 58,
+    "base": "behold",
+    "past": "beheld",
+    "participle": "beheld",
+    "third": "beholds",
+    "ing": "beholding"
+  },
+  {
+    "id": 59,
+    "base": "believe",
+    "past": "believed",
+    "participle": "believed",
+    "third": "believes",
+    "ing": "believing"
+  },
+  {
+    "id": 60,
+    "base": "belong",
+    "past": "belonged",
+    "participle": "belonged",
+    "third": "belongs",
+    "ing": "belonging"
+  },
+  {
+    "id": 61,
+    "base": "bend",
+    "past": "bent",
+    "participle": "bent",
+    "third": "bends",
+    "ing": "bending"
+  },
+  {
+    "id": 62,
+    "base": "bereave",
+    "past": "bereft",
+    "participle": "bereft",
+    "third": "bereaves",
+    "ing": "bereaving"
+  },
+  {
+    "id": 63,
+    "base": "beseech",
+    "past": "besought",
+    "participle": "besought",
+    "third": "beseeches",
+    "ing": "beseeching"
+  },
+  {
+    "id": 64,
+    "base": "bet",
+    "past": "bet",
+    "participle": "bet",
+    "third": "bets",
+    "ing": "betting"
+  },
+  {
+    "id": 65,
+    "base": "betray",
+    "past": "betrayed",
+    "participle": "betrayed",
+    "third": "betrays",
+    "ing": "betraying"
+  },
+  {
+    "id": 66,
+    "base": "bid",
+    "past": "bade",
+    "participle": "bidden",
+    "third": "bids",
+    "ing": "bidding"
+  },
+  {
+    "id": 67,
+    "base": "bid",
+    "past": "bid",
+    "participle": "bid",
+    "third": "bids",
+    "ing": "bidding"
+  },
+  {
+    "id": 68,
+    "base": "bind",
+    "past": "bound",
+    "participle": "bound",
+    "third": "binds",
+    "ing": "binding"
+  },
+  {
+    "id": 69,
+    "base": "bite",
+    "past": "bit",
+    "participle": "bitten",
+    "third": "bites",
+    "ing": "biting"
+  },
+  {
+    "id": 70,
+    "base": "bleed",
+    "past": "bled",
+    "participle": "bled",
+    "third": "bleeds",
+    "ing": "bleeding"
+  },
+  {
+    "id": 71,
+    "base": "bless",
+    "past": "blessed",
+    "participle": "blessed",
+    "third": "blesses",
+    "ing": "blessing"
+  },
+  {
+    "id": 72,
+    "base": "blossom",
+    "past": "blossomed",
+    "participle": "blossomed",
+    "third": "blossoms",
+    "ing": "blossoming"
+  },
+  {
+    "id": 73,
+    "base": "blow",
+    "past": "blew",
+    "participle": "blown",
+    "third": "blows",
+    "ing": "blowing"
+  },
+  {
+    "id": 74,
+    "base": "blur",
+    "past": "blurred",
+    "participle": "blurred",
+    "third": "blurs",
+    "ing": "blurring"
+  },
+  {
+    "id": 75,
+    "base": "blush",
+    "past": "blushed",
+    "participle": "blushed",
+    "third": "blushes",
+    "ing": "blushing"
+  },
+  {
+    "id": 76,
+    "base": "board",
+    "past": "boarded",
+    "participle": "boarded",
+    "third": "boards",
+    "ing": "boarding"
+  },
+  {
+    "id": 77,
+    "base": "boast",
+    "past": "boasted",
+    "participle": "boasted",
+    "third": "boasts",
+    "ing": "boasting"
+  },
+  {
+    "id": 78,
+    "base": "boil",
+    "past": "boiled",
+    "participle": "boiled",
+    "third": "boils",
+    "ing": "boiling"
+  },
+  {
+    "id": 79,
+    "base": "bow",
+    "past": "bowed",
+    "participle": "bowed",
+    "third": "bows",
+    "ing": "bowing"
+  },
+  {
+    "id": 80,
+    "base": "box",
+    "past": "boxed",
+    "participle": "boxed",
+    "third": "boxes",
+    "ing": "boxing"
+  },
+  {
+    "id": 81,
+    "base": "bray",
+    "past": "brayed",
+    "participle": "brayed",
+    "third": "brays",
+    "ing": "braying"
+  },
+  {
+    "id": 82,
+    "base": "break",
+    "past": "broke",
+    "participle": "broken",
+    "third": "breaks",
+    "ing": "breaking"
+  },
+  {
+    "id": 83,
+    "base": "breathe",
+    "past": "breathed",
+    "participle": "breathed",
+    "third": "breathes",
+    "ing": "breathing"
+  },
+  {
+    "id": 84,
+    "base": "breed",
+    "past": "bred",
+    "participle": "bred",
+    "third": "breeds",
+    "ing": "breeding"
+  },
+  {
+    "id": 85,
+    "base": "bring",
+    "past": "brought",
+    "participle": "brought",
+    "third": "brings",
+    "ing": "bringing"
+  },
+  {
+    "id": 86,
+    "base": "broadcast",
+    "past": "broadcast",
+    "participle": "broadcast",
+    "third": "broadcasts",
+    "ing": "broadcasting"
+  },
+  {
+    "id": 87,
+    "base": "brush",
+    "past": "brushed",
+    "participle": "brushed",
+    "third": "brushes",
+    "ing": "brushing"
+  },
+  {
+    "id": 88,
+    "base": "build",
+    "past": "built",
+    "participle": "built",
+    "third": "builds",
+    "ing": "building"
+  },
+  {
+    "id": 89,
+    "base": "burn",
+    "past": "burnt",
+    "participle": "burnt",
+    "third": "burns",
+    "ing": "burning"
+  },
+  {
+    "id": 90,
+    "base": "burst",
+    "past": "burst",
+    "participle": "burst",
+    "third": "bursts",
+    "ing": "bursting"
+  },
+  {
+    "id": 91,
+    "base": "bury",
+    "past": "buried",
+    "participle": "buried",
+    "third": "buries",
+    "ing": "burying"
+  },
+  {
+    "id": 92,
+    "base": "bust",
+    "past": "bust",
+    "participle": "bust",
+    "third": "busts",
+    "ing": "busting"
+  },
+  {
+    "id": 93,
+    "base": "buy",
+    "past": "bought",
+    "participle": "bought",
+    "third": "buys",
+    "ing": "buying"
+  },
+  {
+    "id": 94,
+    "base": "buzz",
+    "past": "buzzed",
+    "participle": "buzzed",
+    "third": "buzzes",
+    "ing": "buzzing"
+  },
+  {
+    "id": 95,
+    "base": "calculate",
+    "past": "calculated",
+    "participle": "calculated",
+    "third": "calculates",
+    "ing": "calculating"
+  },
+  {
+    "id": 96,
+    "base": "call",
+    "past": "called",
+    "participle": "called",
+    "third": "calls",
+    "ing": "calling"
+  },
+  {
+    "id": 97,
+    "base": "canvass",
+    "past": "canvassed",
+    "participle": "canvassed",
+    "third": "canvasses",
+    "ing": "canvassing"
+  },
+  {
+    "id": 98,
+    "base": "capture",
+    "past": "captured",
+    "participle": "captured",
+    "third": "captures",
+    "ing": "capturing"
+  },
+  {
+    "id": 99,
+    "base": "caress",
+    "past": "caressed",
+    "participle": "caressed",
+    "third": "caresses",
+    "ing": "caressing"
+  },
+  {
+    "id": 100,
+    "base": "carry",
+    "past": "carried",
+    "participle": "carried",
+    "third": "carries",
+    "ing": "carrying"
+  },
+  {
+    "id": 101,
+    "base": "carve",
+    "past": "carved",
+    "participle": "carved",
+    "third": "carves",
+    "ing": "carving"
+  },
+  {
+    "id": 102,
+    "base": "cash",
+    "past": "cashed",
+    "participle": "cashed",
+    "third": "cashes",
+    "ing": "cashing"
+  },
+  {
+    "id": 103,
+    "base": "cast",
+    "past": "cast",
+    "participle": "cast",
+    "third": "casts",
+    "ing": "casting"
+  },
+  {
+    "id": 104,
+    "base": "catch",
+    "past": "caught",
+    "participle": "caught",
+    "third": "catches",
+    "ing": "catching"
+  },
+  {
+    "id": 105,
+    "base": "cause",
+    "past": "caused",
+    "participle": "caused",
+    "third": "causes",
+    "ing": "causing"
+  },
+  {
+    "id": 106,
+    "base": "cease",
+    "past": "ceased",
+    "participle": "ceased",
+    "third": "ceases",
+    "ing": "ceasing"
+  },
+  {
+    "id": 107,
+    "base": "celebrate",
+    "past": "celebrated",
+    "participle": "celebrated",
+    "third": "celebrates",
+    "ing": "celebrating"
+  },
+  {
+    "id": 108,
+    "base": "challenge",
+    "past": "challenged",
+    "participle": "challenged",
+    "third": "challenges",
+    "ing": "challenging"
+  },
+  {
+    "id": 109,
+    "base": "change",
+    "past": "changed",
+    "participle": "changed",
+    "third": "changes",
+    "ing": "changing"
+  },
+  {
+    "id": 110,
+    "base": "charge",
+    "past": "charged",
+    "participle": "charged",
+    "third": "charges",
+    "ing": "charging"
+  },
+  {
+    "id": 111,
+    "base": "chase",
+    "past": "chased",
+    "participle": "chased",
+    "third": "chases",
+    "ing": "chasing"
+  },
+  {
+    "id": 112,
+    "base": "chat",
+    "past": "chatted",
+    "participle": "chatted",
+    "third": "chats",
+    "ing": "chatting"
+  },
+  {
+    "id": 113,
+    "base": "check",
+    "past": "checked",
+    "participle": "checked",
+    "third": "checks",
+    "ing": "checking"
+  },
+  {
+    "id": 114,
+    "base": "cheer",
+    "past": "cheered",
+    "participle": "cheered",
+    "third": "cheers",
+    "ing": "cheering"
+  },
+  {
+    "id": 115,
+    "base": "chew",
+    "past": "chewed",
+    "participle": "chewed",
+    "third": "chews",
+    "ing": "chewing"
+  },
+  {
+    "id": 116,
+    "base": "chide",
+    "past": "chid",
+    "participle": "chid/chidden",
+    "third": "chides",
+    "ing": "chiding"
+  },
+  {
+    "id": 117,
+    "base": "chip",
+    "past": "chipped",
+    "participle": "chipped",
+    "third": "chips",
+    "ing": "chipping"
+  },
+  {
+    "id": 118,
+    "base": "choke",
+    "past": "choked",
+    "participle": "choked",
+    "third": "chokes",
+    "ing": "choking"
+  },
+  {
+    "id": 119,
+    "base": "choose",
+    "past": "chose",
+    "participle": "chosen",
+    "third": "chooses",
+    "ing": "choosing"
+  },
+  {
+    "id": 120,
+    "base": "classify",
+    "past": "classified",
+    "participle": "classified",
+    "third": "classifies",
+    "ing": "classifying"
+  },
+  {
+    "id": 121,
+    "base": "clean",
+    "past": "cleaned",
+    "participle": "cleaned",
+    "third": "cleans",
+    "ing": "cleaning"
+  },
+  {
+    "id": 122,
+    "base": "cleave",
+    "past": "clove/cleft",
+    "participle": "cloven/cleft",
+    "third": "cleaves",
+    "ing": "cleaving"
+  },
+  {
+    "id": 123,
+    "base": "click",
+    "past": "clicked",
+    "participle": "clicked",
+    "third": "clicks",
+    "ing": "clicking"
+  },
+  {
+    "id": 124,
+    "base": "climb",
+    "past": "climbed",
+    "participle": "climbed",
+    "third": "climbs",
+    "ing": "climbing"
+  },
+  {
+    "id": 125,
+    "base": "cling",
+    "past": "clung",
+    "participle": "clung",
+    "third": "clings",
+    "ing": "clinging"
+  },
+  {
+    "id": 126,
+    "base": "close",
+    "past": "closed",
+    "participle": "closed",
+    "third": "closes",
+    "ing": "closing"
+  },
+  {
+    "id": 127,
+    "base": "clothe",
+    "past": "clad",
+    "participle": "clad",
+    "third": "clothes",
+    "ing": "clothing"
+  },
+  {
+    "id": 128,
+    "base": "clutch",
+    "past": "clutched",
+    "participle": "clutched",
+    "third": "clutches",
+    "ing": "clutching"
+  },
+  {
+    "id": 129,
+    "base": "collapse",
+    "past": "collapsed",
+    "participle": "collapsed",
+    "third": "collapses",
+    "ing": "collapsing"
+  },
+  {
+    "id": 130,
+    "base": "collect",
+    "past": "collected",
+    "participle": "collected",
+    "third": "collects",
+    "ing": "collecting"
+  },
+  {
+    "id": 131,
+    "base": "colour",
+    "past": "coloured",
+    "participle": "coloured",
+    "third": "colours",
+    "ing": "colouring"
+  },
+  {
+    "id": 132,
+    "base": "come",
+    "past": "came",
+    "participle": "come",
+    "third": "comes",
+    "ing": "coming"
+  },
+  {
+    "id": 133,
+    "base": "comment",
+    "past": "commented",
+    "participle": "commented",
+    "third": "comments",
+    "ing": "commenting"
+  },
+  {
+    "id": 134,
+    "base": "compare",
+    "past": "compared",
+    "participle": "compared",
+    "third": "compares",
+    "ing": "comparing"
+  },
+  {
+    "id": 135,
+    "base": "compel",
+    "past": "compelled",
+    "participle": "compelled",
+    "third": "compels",
+    "ing": "compelling"
+  },
+  {
+    "id": 136,
+    "base": "compete",
+    "past": "competed",
+    "participle": "competed",
+    "third": "competes",
+    "ing": "competing"
+  },
+  {
+    "id": 137,
+    "base": "complain",
+    "past": "complained",
+    "participle": "complained",
+    "third": "complains",
+    "ing": "complaining"
+  },
+  {
+    "id": 138,
+    "base": "complete",
+    "past": "completed",
+    "participle": "completed",
+    "third": "completes",
+    "ing": "completing"
+  },
+  {
+    "id": 139,
+    "base": "conclude",
+    "past": "concluded",
+    "participle": "concluded",
+    "third": "concludes",
+    "ing": "concluding"
+  },
+  {
+    "id": 140,
+    "base": "conduct",
+    "past": "conducted",
+    "participle": "conducted",
+    "third": "conducts",
+    "ing": "conducting"
+  },
+  {
+    "id": 141,
+    "base": "confess",
+    "past": "confessed",
+    "participle": "confessed",
+    "third": "confesses",
+    "ing": "confessing"
+  },
+  {
+    "id": 142,
+    "base": "confine",
+    "past": "confined",
+    "participle": "confined",
+    "third": "confines",
+    "ing": "confining"
+  },
+  {
+    "id": 143,
+    "base": "confiscate",
+    "past": "confiscated",
+    "participle": "confiscated",
+    "third": "confiscates",
+    "ing": "confiscating"
+  },
+  {
+    "id": 144,
+    "base": "confuse",
+    "past": "confused",
+    "participle": "confused",
+    "third": "confuses",
+    "ing": "confusing"
+  },
+  {
+    "id": 145,
+    "base": "congratulate",
+    "past": "congratulated",
+    "participle": "congratulated",
+    "third": "congratulates",
+    "ing": "congratulating"
+  },
+  {
+    "id": 146,
+    "base": "connect",
+    "past": "connected",
+    "participle": "connected",
+    "third": "connects",
+    "ing": "connecting"
+  },
+  {
+    "id": 147,
+    "base": "connote",
+    "past": "connoted",
+    "participle": "connoted",
+    "third": "connotes",
+    "ing": "connoting"
+  },
+  {
+    "id": 148,
+    "base": "conquer",
+    "past": "conquered",
+    "participle": "conquered",
+    "third": "conquers",
+    "ing": "conquering"
+  },
+  {
+    "id": 149,
+    "base": "consecrate",
+    "past": "consecrated",
+    "participle": "consecrated",
+    "third": "consecrates",
+    "ing": "consecrating"
+  },
+  {
+    "id": 150,
+    "base": "consent",
+    "past": "consented",
+    "participle": "consented",
+    "third": "consents",
+    "ing": "consenting"
+  },
+  {
+    "id": 151,
+    "base": "conserve",
+    "past": "conserved",
+    "participle": "conserved",
+    "third": "conserves",
+    "ing": "conserving"
+  },
+  {
+    "id": 152,
+    "base": "consider",
+    "past": "considered",
+    "participle": "considered",
+    "third": "considers",
+    "ing": "considering"
+  },
+  {
+    "id": 153,
+    "base": "consign",
+    "past": "consigned",
+    "participle": "consigned",
+    "third": "consigns",
+    "ing": "consigning"
+  },
+  {
+    "id": 154,
+    "base": "consist",
+    "past": "consisted",
+    "participle": "consisted",
+    "third": "consists",
+    "ing": "consisting"
+  },
+  {
+    "id": 155,
+    "base": "console",
+    "past": "consoled",
+    "participle": "consoled",
+    "third": "consoles",
+    "ing": "consoling"
+  },
+  {
+    "id": 156,
+    "base": "consort",
+    "past": "consorted",
+    "participle": "consorted",
+    "third": "consorts",
+    "ing": "consorting"
+  },
+  {
+    "id": 157,
+    "base": "conspire",
+    "past": "conspired",
+    "participle": "conspired",
+    "third": "conspires",
+    "ing": "conspiring"
+  },
+  {
+    "id": 158,
+    "base": "constitute",
+    "past": "constituted",
+    "participle": "constituted",
+    "third": "constitutes",
+    "ing": "constituting"
+  },
+  {
+    "id": 159,
+    "base": "constrain",
+    "past": "constrained",
+    "participle": "constrained",
+    "third": "constrains",
+    "ing": "constraining"
+  },
+  {
+    "id": 160,
+    "base": "construct",
+    "past": "constructed",
+    "participle": "constructed",
+    "third": "constructs",
+    "ing": "constructing"
+  },
+  {
+    "id": 161,
+    "base": "construe",
+    "past": "construed",
+    "participle": "construed",
+    "third": "construes",
+    "ing": "construing"
+  },
+  {
+    "id": 162,
+    "base": "consult",
+    "past": "consulted",
+    "participle": "consulted",
+    "third": "consults",
+    "ing": "consulting"
+  },
+  {
+    "id": 163,
+    "base": "contain",
+    "past": "contained",
+    "participle": "contained",
+    "third": "contains",
+    "ing": "containing"
+  },
+  {
+    "id": 164,
+    "base": "contemn",
+    "past": "contemned",
+    "participle": "contemned",
+    "third": "contemns",
+    "ing": "contemning"
+  },
+  {
+    "id": 165,
+    "base": "contend",
+    "past": "contended",
+    "participle": "contended",
+    "third": "contends",
+    "ing": "contending"
+  },
+  {
+    "id": 166,
+    "base": "contest",
+    "past": "contested",
+    "participle": "contested",
+    "third": "contests",
+    "ing": "contesting"
+  },
+  {
+    "id": 167,
+    "base": "continue",
+    "past": "continued",
+    "participle": "continued",
+    "third": "continues",
+    "ing": "continuing"
+  },
+  {
+    "id": 168,
+    "base": "contract",
+    "past": "contracted",
+    "participle": "contracted",
+    "third": "contracts",
+    "ing": "contracting"
+  },
+  {
+    "id": 169,
+    "base": "contradict",
+    "past": "contradicted",
+    "participle": "contradicted",
+    "third": "contradicts",
+    "ing": "contradicting"
+  },
+  {
+    "id": 170,
+    "base": "contrast",
+    "past": "contrasted",
+    "participle": "contrasted",
+    "third": "contrasts",
+    "ing": "contrasting"
+  },
+  {
+    "id": 171,
+    "base": "contribute",
+    "past": "contributed",
+    "participle": "contributed",
+    "third": "contributes",
+    "ing": "contributing"
+  },
+  {
+    "id": 172,
+    "base": "contrive",
+    "past": "contrived",
+    "participle": "contrived",
+    "third": "contrives",
+    "ing": "contriving"
+  },
+  {
+    "id": 173,
+    "base": "control",
+    "past": "controlled",
+    "participle": "controlled",
+    "third": "controls",
+    "ing": "controlling"
+  },
+  {
+    "id": 174,
+    "base": "convene",
+    "past": "convened",
+    "participle": "convened",
+    "third": "convenes",
+    "ing": "convening"
+  },
+  {
+    "id": 175,
+    "base": "converge",
+    "past": "converged",
+    "participle": "converged",
+    "third": "converges",
+    "ing": "converging"
+  },
+  {
+    "id": 176,
+    "base": "converse",
+    "past": "conversed",
+    "participle": "conversed",
+    "third": "converses",
+    "ing": "conversing"
+  },
+  {
+    "id": 177,
+    "base": "convert",
+    "past": "converted",
+    "participle": "converted",
+    "third": "converts",
+    "ing": "converting"
+  },
+  {
+    "id": 178,
+    "base": "convey",
+    "past": "conveyed",
+    "participle": "conveyed",
+    "third": "conveys",
+    "ing": "conveying"
+  },
+  {
+    "id": 179,
+    "base": "convict",
+    "past": "convicted",
+    "participle": "convicted",
+    "third": "convicts",
+    "ing": "convicting"
+  },
+  {
+    "id": 180,
+    "base": "convince",
+    "past": "convinced",
+    "participle": "convinced",
+    "third": "convinces",
+    "ing": "convincing"
+  },
+  {
+    "id": 181,
+    "base": "coo",
+    "past": "cooed",
+    "participle": "cooed",
+    "third": "coos",
+    "ing": "cooing"
+  },
+  {
+    "id": 182,
+    "base": "cook",
+    "past": "cooked",
+    "participle": "cooked",
+    "third": "cooks",
+    "ing": "cooking"
+  },
+  {
+    "id": 183,
+    "base": "cool",
+    "past": "cooled",
+    "participle": "cooled",
+    "third": "cools",
+    "ing": "cooling"
+  },
+  {
+    "id": 184,
+    "base": "co-operate",
+    "past": "co-operated",
+    "participle": "co-operated",
+    "third": "co-operates",
+    "ing": "co-operating"
+  },
+  {
+    "id": 185,
+    "base": "cope",
+    "past": "coped",
+    "participle": "cope",
+    "third": "copes",
+    "ing": "coping"
+  },
+  {
+    "id": 186,
+    "base": "copy",
+    "past": "copied",
+    "participle": "copied",
+    "third": "copies",
+    "ing": "copying"
+  },
+  {
+    "id": 187,
+    "base": "correct",
+    "past": "corrected",
+    "participle": "corrected",
+    "third": "corrects",
+    "ing": "correcting"
+  },
+  {
+    "id": 188,
+    "base": "correspond",
+    "past": "corresponded",
+    "participle": "corresponded",
+    "third": "corresponds",
+    "ing": "corresponding"
+  },
+  {
+    "id": 189,
+    "base": "corrode",
+    "past": "corroded",
+    "participle": "corroded",
+    "third": "corrodes",
+    "ing": "corroding"
+  },
+  {
+    "id": 190,
+    "base": "corrupt",
+    "past": "corrupted",
+    "participle": "corrupted",
+    "third": "corrupts",
+    "ing": "corrupting"
+  },
+  {
+    "id": 191,
+    "base": "cost",
+    "past": "cost",
+    "participle": "cost",
+    "third": "costs",
+    "ing": "costing"
+  },
+  {
+    "id": 192,
+    "base": "cough",
+    "past": "coughed",
+    "participle": "coughed",
+    "third": "coughs",
+    "ing": "coughing"
+  },
+  {
+    "id": 193,
+    "base": "counsel",
+    "past": "counselled",
+    "participle": "counselled",
+    "third": "counsels",
+    "ing": "counselling"
+  },
+  {
+    "id": 194,
+    "base": "count",
+    "past": "counted",
+    "participle": "counted",
+    "third": "counts",
+    "ing": "counting"
+  },
+  {
+    "id": 195,
+    "base": "course",
+    "past": "coursed",
+    "participle": "coursed",
+    "third": "courses",
+    "ing": "coursing"
+  },
+  {
+    "id": 196,
+    "base": "cover",
+    "past": "covered",
+    "participle": "covered",
+    "third": "covers",
+    "ing": "covering"
+  },
+  {
+    "id": 197,
+    "base": "cower",
+    "past": "cowered",
+    "participle": "cowered",
+    "third": "cowers",
+    "ing": "cowering"
+  },
+  {
+    "id": 198,
+    "base": "crack",
+    "past": "cracked",
+    "participle": "cracked",
+    "third": "cracks",
+    "ing": "cracking"
+  },
+  {
+    "id": 199,
+    "base": "crackle",
+    "past": "crackled",
+    "participle": "crackled",
+    "third": "crackles",
+    "ing": "crackling"
+  },
+  {
+    "id": 200,
+    "base": "crash",
+    "past": "crashed",
+    "participle": "crashed",
+    "third": "crashes",
+    "ing": "crashing"
+  },
+  {
+    "id": 201,
+    "base": "crave",
+    "past": "craved",
+    "participle": "craved",
+    "third": "craves",
+    "ing": "craving"
+  },
+  {
+    "id": 202,
+    "base": "create",
+    "past": "created",
+    "participle": "created",
+    "third": "creates",
+    "ing": "creating"
+  },
+  {
+    "id": 203,
+    "base": "creep",
+    "past": "crept",
+    "participle": "crept",
+    "third": "creeps",
+    "ing": "creeping"
+  },
+  {
+    "id": 204,
+    "base": "crib",
+    "past": "cribbed",
+    "participle": "cribbed",
+    "third": "cribs",
+    "ing": "cribbing"
+  },
+  {
+    "id": 205,
+    "base": "cross",
+    "past": "crossed",
+    "participle": "crossed",
+    "third": "crosses",
+    "ing": "crossing"
+  },
+  {
+    "id": 206,
+    "base": "crowd",
+    "past": "crowded",
+    "participle": "crowded",
+    "third": "crowds",
+    "ing": "crowding"
+  },
+  {
+    "id": 207,
+    "base": "crush",
+    "past": "crushed",
+    "participle": "crushed",
+    "third": "crushes",
+    "ing": "crushing"
+  },
+  {
+    "id": 208,
+    "base": "cry",
+    "past": "cried",
+    "participle": "cried",
+    "third": "cries",
+    "ing": "crying"
+  },
+  {
+    "id": 209,
+    "base": "curb",
+    "past": "curbed",
+    "participle": "curbed",
+    "third": "curbs",
+    "ing": "curbing"
+  },
+  {
+    "id": 210,
+    "base": "cure",
+    "past": "cured",
+    "participle": "cured",
+    "third": "cures",
+    "ing": "curing"
+  },
+  {
+    "id": 211,
+    "base": "curve",
+    "past": "curved",
+    "participle": "curved",
+    "third": "curves",
+    "ing": "curving"
+  },
+  {
+    "id": 212,
+    "base": "cut",
+    "past": "cut",
+    "participle": "cut",
+    "third": "cuts",
+    "ing": "cutting"
+  },
+  {
+    "id": 213,
+    "base": "cycle",
+    "past": "cycled",
+    "participle": "cycled",
+    "third": "cycles",
+    "ing": "cycling"
+  },
+  {
+    "id": 214,
+    "base": "damage",
+    "past": "damaged",
+    "participle": "damaged",
+    "third": "damages",
+    "ing": "damaging"
+  },
+  {
+    "id": 215,
+    "base": "damp",
+    "past": "damped",
+    "participle": "damped",
+    "third": "damps",
+    "ing": "damping"
+  },
+  {
+    "id": 216,
+    "base": "dance",
+    "past": "danced",
+    "participle": "danced",
+    "third": "dances",
+    "ing": "dancing"
+  },
+  {
+    "id": 217,
+    "base": "dare",
+    "past": "dared",
+    "participle": "dared",
+    "third": "dares",
+    "ing": "daring"
+  },
+  {
+    "id": 218,
+    "base": "dash",
+    "past": "dashed",
+    "participle": "dashed",
+    "third": "dashes",
+    "ing": "dashing"
+  },
+  {
+    "id": 219,
+    "base": "dazzle",
+    "past": "dazzled",
+    "participle": "dazzled",
+    "third": "dazzles",
+    "ing": "dazzling"
+  },
+  {
+    "id": 220,
+    "base": "deal",
+    "past": "dealt",
+    "participle": "dealt",
+    "third": "deals",
+    "ing": "dealing"
+  },
+  {
+    "id": 221,
+    "base": "decay",
+    "past": "decayed",
+    "participle": "decayed",
+    "third": "decays",
+    "ing": "decaying"
+  },
+  {
+    "id": 222,
+    "base": "decide",
+    "past": "decided",
+    "participle": "decided",
+    "third": "decides",
+    "ing": "deciding"
+  },
+  {
+    "id": 223,
+    "base": "declare",
+    "past": "declared",
+    "participle": "declared",
+    "third": "declares",
+    "ing": "declaring"
+  },
+  {
+    "id": 224,
+    "base": "decorate",
+    "past": "decorated",
+    "participle": "decorated",
+    "third": "decorates",
+    "ing": "decorating"
+  },
+  {
+    "id": 225,
+    "base": "decrease",
+    "past": "decreased",
+    "participle": "decreased",
+    "third": "decreases",
+    "ing": "decreasing"
+  },
+  {
+    "id": 226,
+    "base": "dedicate",
+    "past": "dedicated",
+    "participle": "dedicated",
+    "third": "dedicates",
+    "ing": "dedicating"
+  },
+  {
+    "id": 227,
+    "base": "delay",
+    "past": "delayed",
+    "participle": "delayed",
+    "third": "delays",
+    "ing": "delaying"
+  },
+  {
+    "id": 228,
+    "base": "delete",
+    "past": "deleted",
+    "participle": "deleted",
+    "third": "deletes",
+    "ing": "deleting"
+  },
+  {
+    "id": 229,
+    "base": "deny",
+    "past": "denied",
+    "participle": "denied",
+    "third": "denies",
+    "ing": "denying"
+  },
+  {
+    "id": 230,
+    "base": "depend",
+    "past": "depended",
+    "participle": "depended",
+    "third": "depends",
+    "ing": "depending"
+  },
+  {
+    "id": 231,
+    "base": "deprive",
+    "past": "deprived",
+    "participle": "deprived",
+    "third": "deprives",
+    "ing": "depriving"
+  },
+  {
+    "id": 232,
+    "base": "derive",
+    "past": "derived",
+    "participle": "derived",
+    "third": "derives",
+    "ing": "deriving"
+  },
+  {
+    "id": 233,
+    "base": "describe",
+    "past": "described",
+    "participle": "described",
+    "third": "describes",
+    "ing": "describing"
+  },
+  {
+    "id": 234,
+    "base": "desire",
+    "past": "desired",
+    "participle": "desired",
+    "third": "desires",
+    "ing": "desiring"
+  },
+  {
+    "id": 235,
+    "base": "destroy",
+    "past": "destroyed",
+    "participle": "destroyed",
+    "third": "destroys",
+    "ing": "destroying"
+  },
+  {
+    "id": 236,
+    "base": "detach",
+    "past": "detached",
+    "participle": "detached",
+    "third": "detaches",
+    "ing": "detaching"
+  },
+  {
+    "id": 237,
+    "base": "detect",
+    "past": "detected",
+    "participle": "detected",
+    "third": "detects",
+    "ing": "detecting"
+  },
+  {
+    "id": 238,
+    "base": "determine",
+    "past": "determined",
+    "participle": "determined",
+    "third": "determines",
+    "ing": "determining"
+  },
+  {
+    "id": 239,
+    "base": "develop",
+    "past": "developed",
+    "participle": "developed",
+    "third": "develops",
+    "ing": "developing"
+  },
+  {
+    "id": 240,
+    "base": "die",
+    "past": "died",
+    "participle": "died",
+    "third": "dies",
+    "ing": "dying"
+  },
+  {
+    "id": 241,
+    "base": "differ",
+    "past": "differed",
+    "participle": "differed",
+    "third": "differs",
+    "ing": "differing"
+  },
+  {
+    "id": 242,
+    "base": "dig",
+    "past": "dug",
+    "participle": "dug",
+    "third": "digs",
+    "ing": "digging"
+  },
+  {
+    "id": 243,
+    "base": "digest",
+    "past": "digested",
+    "participle": "digested",
+    "third": "digests",
+    "ing": "digesting"
+  },
+  {
+    "id": 244,
+    "base": "dim",
+    "past": "dimmed",
+    "participle": "dimmed",
+    "third": "dims",
+    "ing": "dimming"
+  },
+  {
+    "id": 245,
+    "base": "diminish",
+    "past": "diminished",
+    "participle": "diminished",
+    "third": "diminishes",
+    "ing": "diminishing"
+  },
+  {
+    "id": 246,
+    "base": "dine",
+    "past": "dined",
+    "participle": "dined",
+    "third": "dines",
+    "ing": "dining"
+  },
+  {
+    "id": 247,
+    "base": "dip",
+    "past": "dipped",
+    "participle": "dipped",
+    "third": "dips",
+    "ing": "dipping"
+  },
+  {
+    "id": 248,
+    "base": "direct",
+    "past": "directed",
+    "participle": "directed",
+    "third": "directs",
+    "ing": "directing"
+  },
+  {
+    "id": 249,
+    "base": "disappear",
+    "past": "disappeared",
+    "participle": "disappeared",
+    "third": "disappears",
+    "ing": "disappearing"
+  },
+  {
+    "id": 250,
+    "base": "discover",
+    "past": "discovered",
+    "participle": "discovered",
+    "third": "discovers",
+    "ing": "discovering"
+  },
+  {
+    "id": 251,
+    "base": "discuss",
+    "past": "discussed",
+    "participle": "discussed",
+    "third": "discusses",
+    "ing": "discussing"
+  },
+  {
+    "id": 252,
+    "base": "disobey",
+    "past": "disobeyed",
+    "participle": "disobeyed",
+    "third": "disobeys",
+    "ing": "disobeying"
+  },
+  {
+    "id": 253,
+    "base": "display",
+    "past": "displayed",
+    "participle": "displayed",
+    "third": "displays",
+    "ing": "displaying"
+  },
+  {
+    "id": 254,
+    "base": "dispose",
+    "past": "disposed",
+    "participle": "disposed",
+    "third": "disposes",
+    "ing": "disposing"
+  },
+  {
+    "id": 255,
+    "base": "distribute",
+    "past": "distributed",
+    "participle": "distributed",
+    "third": "distributes",
+    "ing": "distributing"
+  },
+  {
+    "id": 256,
+    "base": "disturb",
+    "past": "disturbed",
+    "participle": "disturbed",
+    "third": "disturbs",
+    "ing": "disturbing"
+  },
+  {
+    "id": 257,
+    "base": "disuse",
+    "past": "disused",
+    "participle": "disused",
+    "third": "disuses",
+    "ing": "disusing"
+  },
+  {
+    "id": 258,
+    "base": "dive",
+    "past": "dived",
+    "participle": "dived",
+    "third": "dives",
+    "ing": "diving"
+  },
+  {
+    "id": 259,
+    "base": "divide",
+    "past": "divided",
+    "participle": "divided",
+    "third": "divides",
+    "ing": "dividing"
+  },
+  {
+    "id": 260,
+    "base": "do",
+    "past": "did",
+    "participle": "done",
+    "third": "does",
+    "ing": "doing"
+  },
+  {
+    "id": 261,
+    "base": "donate",
+    "past": "donated",
+    "participle": "donated",
+    "third": "donates",
+    "ing": "donating"
+  },
+  {
+    "id": 262,
+    "base": "download",
+    "past": "downloaded",
+    "participle": "downloaded",
+    "third": "downloads",
+    "ing": "downloading"
+  },
+  {
+    "id": 263,
+    "base": "drag",
+    "past": "dragged",
+    "participle": "dragged",
+    "third": "drags",
+    "ing": "dragging"
+  },
+  {
+    "id": 264,
+    "base": "draw",
+    "past": "drew",
+    "participle": "drawn",
+    "third": "draws",
+    "ing": "drawing"
+  },
+  {
+    "id": 265,
+    "base": "dream",
+    "past": "dreamt",
+    "participle": "dreamt",
+    "third": "dreams",
+    "ing": "dreaming"
+  },
+  {
+    "id": 266,
+    "base": "dress",
+    "past": "dressed",
+    "participle": "dressed",
+    "third": "dresses",
+    "ing": "dressing"
+  },
+  {
+    "id": 267,
+    "base": "drill",
+    "past": "drilled",
+    "participle": "drilled",
+    "third": "drills",
+    "ing": "drilling"
+  },
+  {
+    "id": 268,
+    "base": "drink",
+    "past": "drank",
+    "participle": "drunk",
+    "third": "drinks",
+    "ing": "drinking"
+  },
+  {
+    "id": 269,
+    "base": "drive",
+    "past": "drove",
+    "participle": "driven",
+    "third": "drives",
+    "ing": "driving"
+  },
+  {
+    "id": 270,
+    "base": "drop",
+    "past": "dropped",
+    "participle": "dropped",
+    "third": "drops",
+    "ing": "dropping"
+  },
+  {
+    "id": 271,
+    "base": "dry",
+    "past": "dried",
+    "participle": "dried",
+    "third": "dries",
+    "ing": "drying"
+  },
+  {
+    "id": 272,
+    "base": "dump",
+    "past": "dumped",
+    "participle": "dumped",
+    "third": "dumps",
+    "ing": "dumping"
+  },
+  {
+    "id": 273,
+    "base": "dwell",
+    "past": "dwelt",
+    "participle": "dwelt",
+    "third": "dwells",
+    "ing": "dwelling"
+  },
+  {
+    "id": 274,
+    "base": "dye",
+    "past": "dyed",
+    "participle": "dyed",
+    "third": "dyes",
+    "ing": "dyeing"
+  },
+  {
+    "id": 275,
+    "base": "earn",
+    "past": "earned",
+    "participle": "earned",
+    "third": "earns",
+    "ing": "earning"
+  },
+  {
+    "id": 276,
+    "base": "eat",
+    "past": "ate",
+    "participle": "eaten",
+    "third": "eats",
+    "ing": "eating"
+  },
+  {
+    "id": 277,
+    "base": "educate",
+    "past": "educated",
+    "participle": "educated",
+    "third": "educates",
+    "ing": "educating"
+  },
+  {
+    "id": 278,
+    "base": "empower",
+    "past": "empowered",
+    "participle": "empowered",
+    "third": "empowers",
+    "ing": "empowering"
+  },
+  {
+    "id": 279,
+    "base": "empty",
+    "past": "emptied",
+    "participle": "emptied",
+    "third": "empties",
+    "ing": "emptying"
+  },
+  {
+    "id": 280,
+    "base": "encircle",
+    "past": "encircled",
+    "participle": "encircled",
+    "third": "encircles",
+    "ing": "encircling"
+  },
+  {
+    "id": 281,
+    "base": "encourage",
+    "past": "encouraged",
+    "participle": "encouraged",
+    "third": "encourages",
+    "ing": "encouraging"
+  },
+  {
+    "id": 282,
+    "base": "encroach",
+    "past": "encroached",
+    "participle": "encroached",
+    "third": "encroaches",
+    "ing": "encroaching"
+  },
+  {
+    "id": 283,
+    "base": "endanger",
+    "past": "endangered",
+    "participle": "endangered",
+    "third": "endangers",
+    "ing": "entangling"
+  },
+  {
+    "id": 284,
+    "base": "endorse",
+    "past": "endorsed",
+    "participle": "endorsed",
+    "third": "endorses",
+    "ing": "endorsing"
+  },
+  {
+    "id": 285,
+    "base": "endure",
+    "past": "endured",
+    "participle": "endured",
+    "third": "endures",
+    "ing": "enduring"
+  },
+  {
+    "id": 286,
+    "base": "engrave",
+    "past": "engraved",
+    "participle": "engraved",
+    "third": "engraves",
+    "ing": "engraving"
+  },
+  {
+    "id": 287,
+    "base": "enjoy",
+    "past": "enjoyed",
+    "participle": "enjoyed",
+    "third": "enjoys",
+    "ing": "enjoying"
+  },
+  {
+    "id": 288,
+    "base": "enlarge",
+    "past": "enlarged",
+    "participle": "enlarged",
+    "third": "enlarges",
+    "ing": "enlarging"
+  },
+  {
+    "id": 289,
+    "base": "enlighten",
+    "past": "enlightened",
+    "participle": "enlightened",
+    "third": "enlightens",
+    "ing": "enlightening"
+  },
+  {
+    "id": 290,
+    "base": "enter",
+    "past": "entered",
+    "participle": "entered",
+    "third": "enters",
+    "ing": "entering"
+  },
+  {
+    "id": 291,
+    "base": "envy",
+    "past": "envied",
+    "participle": "envied",
+    "third": "envies",
+    "ing": "envying"
+  },
+  {
+    "id": 292,
+    "base": "erase",
+    "past": "erased",
+    "participle": "erased",
+    "third": "erases",
+    "ing": "erasing"
+  },
+  {
+    "id": 293,
+    "base": "escape",
+    "past": "escaped",
+    "participle": "escaped",
+    "third": "escapes",
+    "ing": "escaping"
+  },
+  {
+    "id": 294,
+    "base": "evaporate",
+    "past": "evaporated",
+    "participle": "evaporated",
+    "third": "evaporates",
+    "ing": "evaporating"
+  },
+  {
+    "id": 295,
+    "base": "exchange",
+    "past": "exchanged",
+    "participle": "exchanged",
+    "third": "exchanges",
+    "ing": "exchanging"
+  },
+  {
+    "id": 296,
+    "base": "exclaim",
+    "past": "exclaimed",
+    "participle": "exclaimed",
+    "third": "exclaims",
+    "ing": "exclaiming"
+  },
+  {
+    "id": 297,
+    "base": "exclude",
+    "past": "excluded",
+    "participle": "excluded",
+    "third": "excludes",
+    "ing": "excluding"
+  },
+  {
+    "id": 298,
+    "base": "exist",
+    "past": "existed",
+    "participle": "existed",
+    "third": "exists",
+    "ing": "existing"
+  },
+  {
+    "id": 299,
+    "base": "expand",
+    "past": "expanded",
+    "participle": "expanded",
+    "third": "expands",
+    "ing": "expanding"
+  },
+  {
+    "id": 300,
+    "base": "expect",
+    "past": "expected",
+    "participle": "expected",
+    "third": "expects",
+    "ing": "expecting"
+  },
+  {
+    "id": 301,
+    "base": "explain",
+    "past": "explained",
+    "participle": "explained",
+    "third": "explains",
+    "ing": "explaining"
+  },
+  {
+    "id": 302,
+    "base": "explore",
+    "past": "explored",
+    "participle": "explored",
+    "third": "explores",
+    "ing": "exploring"
+  },
+  {
+    "id": 303,
+    "base": "express",
+    "past": "expressed",
+    "participle": "expressed",
+    "third": "expresses",
+    "ing": "expressing"
+  },
+  {
+    "id": 304,
+    "base": "extend",
+    "past": "extended",
+    "participle": "extended",
+    "third": "extends",
+    "ing": "extending"
+  },
+  {
+    "id": 305,
+    "base": "eye",
+    "past": "eyed",
+    "participle": "eyed",
+    "third": "eyes",
+    "ing": "eyeing"
+  },
+  {
+    "id": 306,
+    "base": "face",
+    "past": "faced",
+    "participle": "faced",
+    "third": "faces",
+    "ing": "facing"
+  },
+  {
+    "id": 307,
+    "base": "fail",
+    "past": "failed",
+    "participle": "failed",
+    "third": "fails",
+    "ing": "failing"
+  },
+  {
+    "id": 308,
+    "base": "faint",
+    "past": "fainted",
+    "participle": "fainted",
+    "third": "faints",
+    "ing": "fainting"
+  },
+  {
+    "id": 309,
+    "base": "fall",
+    "past": "fell",
+    "participle": "fallen",
+    "third": "falls",
+    "ing": "falling"
+  },
+  {
+    "id": 310,
+    "base": "fan",
+    "past": "fanned",
+    "participle": "fanned",
+    "third": "fans",
+    "ing": "fanning"
+  },
+  {
+    "id": 311,
+    "base": "fancy",
+    "past": "fancied",
+    "participle": "fancied",
+    "third": "fancies",
+    "ing": "fancying"
+  },
+  {
+    "id": 312,
+    "base": "favour",
+    "past": "favoured",
+    "participle": "favoured",
+    "third": "favours",
+    "ing": "favouring"
+  },
+  {
+    "id": 313,
+    "base": "fax",
+    "past": "faxed",
+    "participle": "faxed",
+    "third": "faxes",
+    "ing": "faxing"
+  },
+  {
+    "id": 314,
+    "base": "feed",
+    "past": "fed",
+    "participle": "fed",
+    "third": "feeds",
+    "ing": "feeding"
+  },
+  {
+    "id": 315,
+    "base": "feel",
+    "past": "felt",
+    "participle": "felt",
+    "third": "feels",
+    "ing": "feeling"
+  },
+  {
+    "id": 316,
+    "base": "ferry",
+    "past": "ferried",
+    "participle": "ferried",
+    "third": "ferries",
+    "ing": "ferrying"
+  },
+  {
+    "id": 317,
+    "base": "fetch",
+    "past": "fetched",
+    "participle": "fetched",
+    "third": "fetches",
+    "ing": "fetching"
+  },
+  {
+    "id": 318,
+    "base": "fight",
+    "past": "fought",
+    "participle": "fought",
+    "third": "fights",
+    "ing": "fighting"
+  },
+  {
+    "id": 319,
+    "base": "fill",
+    "past": "filled",
+    "participle": "filled",
+    "third": "fills",
+    "ing": "filling"
+  },
+  {
+    "id": 320,
+    "base": "find",
+    "past": "found",
+    "participle": "found",
+    "third": "finds",
+    "ing": "finding"
+  },
+  {
+    "id": 321,
+    "base": "finish",
+    "past": "finished",
+    "participle": "finished",
+    "third": "finishes",
+    "ing": "finishing"
+  },
+  {
+    "id": 322,
+    "base": "fish",
+    "past": "fished",
+    "participle": "fished",
+    "third": "fishes",
+    "ing": "fishing"
+  },
+  {
+    "id": 323,
+    "base": "fit",
+    "past": "fit/fitted",
+    "participle": "fit/fitted",
+    "third": "fits",
+    "ing": "fitting"
+  },
+  {
+    "id": 324,
+    "base": "fix",
+    "past": "fixed",
+    "participle": "fixed",
+    "third": "fixes",
+    "ing": "fixing"
+  },
+  {
+    "id": 325,
+    "base": "fizz",
+    "past": "fizzed",
+    "participle": "fizzed",
+    "third": "fizzes",
+    "ing": "fizzing"
+  },
+  {
+    "id": 326,
+    "base": "flap",
+    "past": "flapped",
+    "participle": "flapped",
+    "third": "flaps",
+    "ing": "flapping"
+  },
+  {
+    "id": 327,
+    "base": "flash",
+    "past": "flashed",
+    "participle": "flashed",
+    "third": "flashes",
+    "ing": "flashing"
+  },
+  {
+    "id": 328,
+    "base": "flee",
+    "past": "fled",
+    "participle": "fled",
+    "third": "flees",
+    "ing": "fleeing"
+  },
+  {
+    "id": 329,
+    "base": "fling",
+    "past": "flung",
+    "participle": "flung",
+    "third": "flings",
+    "ing": "flinging"
+  },
+  {
+    "id": 330,
+    "base": "float",
+    "past": "floated",
+    "participle": "floated",
+    "third": "floats",
+    "ing": "floating"
+  },
+  {
+    "id": 331,
+    "base": "flop",
+    "past": "flopped",
+    "participle": "flopped",
+    "third": "flops",
+    "ing": "flopping"
+  },
+  {
+    "id": 332,
+    "base": "fly",
+    "past": "flew",
+    "participle": "flown",
+    "third": "flies",
+    "ing": "flying"
+  },
+  {
+    "id": 333,
+    "base": "fold",
+    "past": "folded",
+    "participle": "folded",
+    "third": "folds",
+    "ing": "folding"
+  },
+  {
+    "id": 334,
+    "base": "follow",
+    "past": "followed",
+    "participle": "followed",
+    "third": "follows",
+    "ing": "following"
+  },
+  {
+    "id": 335,
+    "base": "forbid",
+    "past": "forbade",
+    "participle": "forbidden",
+    "third": "forbids",
+    "ing": "forbidding"
+  },
+  {
+    "id": 336,
+    "base": "force",
+    "past": "forced",
+    "participle": "forced",
+    "third": "forces",
+    "ing": "forcing"
+  },
+  {
+    "id": 337,
+    "base": "forecast",
+    "past": "forecast",
+    "participle": "forecast",
+    "third": "forecasts",
+    "ing": "forecasting"
+  },
+  {
+    "id": 338,
+    "base": "foretell",
+    "past": "foretold",
+    "participle": "foretold",
+    "third": "foretells",
+    "ing": "foretelling"
+  },
+  {
+    "id": 339,
+    "base": "forget",
+    "past": "forgot",
+    "participle": "forgotten",
+    "third": "forgets",
+    "ing": "forgetting"
+  },
+  {
+    "id": 340,
+    "base": "forgive",
+    "past": "forgave",
+    "participle": "forgiven",
+    "third": "forgives",
+    "ing": "forgiving"
+  },
+  {
+    "id": 341,
+    "base": "forlese",
+    "past": "forlore",
+    "participle": "forlorn",
+    "third": "forlese",
+    "ing": "forlesing"
+  },
+  {
+    "id": 342,
+    "base": "form",
+    "past": "formed",
+    "participle": "formed",
+    "third": "forms",
+    "ing": "forming"
+  },
+  {
+    "id": 343,
+    "base": "forsake",
+    "past": "forsook",
+    "participle": "forsaken",
+    "third": "forsakes",
+    "ing": "forsaking"
+  },
+  {
+    "id": 344,
+    "base": "found",
+    "past": "founded",
+    "participle": "founded",
+    "third": "founds",
+    "ing": "founding"
+  },
+  {
+    "id": 345,
+    "base": "frame",
+    "past": "framed",
+    "participle": "framed",
+    "third": "frames",
+    "ing": "framing"
+  },
+  {
+    "id": 346,
+    "base": "free",
+    "past": "freed",
+    "participle": "freed",
+    "third": "frees",
+    "ing": "freeing"
+  },
+  {
+    "id": 347,
+    "base": "freeze",
+    "past": "froze",
+    "participle": "frozen",
+    "third": "freezes",
+    "ing": "freezing"
+  },
+  {
+    "id": 348,
+    "base": "frighten",
+    "past": "frightened",
+    "participle": "frightened",
+    "third": "frightens",
+    "ing": "frightening"
+  },
+  {
+    "id": 349,
+    "base": "fry",
+    "past": "fried",
+    "participle": "fried",
+    "third": "fries",
+    "ing": "frying"
+  },
+  {
+    "id": 350,
+    "base": "fulfil",
+    "past": "fulfilled",
+    "participle": "fulfilled",
+    "third": "fulfils",
+    "ing": "fulfilling"
+  },
+  {
+    "id": 351,
+    "base": "gag",
+    "past": "gagged",
+    "participle": "gagged",
+    "third": "gags",
+    "ing": "gagging"
+  },
+  {
+    "id": 352,
+    "base": "gain",
+    "past": "gained",
+    "participle": "gained",
+    "third": "gains",
+    "ing": "gaining"
+  },
+  {
+    "id": 353,
+    "base": "gainsay",
+    "past": "gainsaid",
+    "participle": "gainsaid",
+    "third": "gainsays",
+    "ing": "gainsaying"
+  },
+  {
+    "id": 354,
+    "base": "gash",
+    "past": "gashed",
+    "participle": "gashed",
+    "third": "gashes",
+    "ing": "gashing"
+  },
+  {
+    "id": 355,
+    "base": "gaze",
+    "past": "gazed",
+    "participle": "gazed",
+    "third": "gazes",
+    "ing": "gazing"
+  },
+  {
+    "id": 356,
+    "base": "get",
+    "past": "got",
+    "participle": "got",
+    "third": "gets",
+    "ing": "getting"
+  },
+  {
+    "id": 357,
+    "base": "give",
+    "past": "gave",
+    "participle": "given",
+    "third": "gives",
+    "ing": "giving"
+  },
+  {
+    "id": 358,
+    "base": "glance",
+    "past": "glanced",
+    "participle": "glanced",
+    "third": "glances",
+    "ing": "glancing"
+  },
+  {
+    "id": 359,
+    "base": "glitter",
+    "past": "glittered",
+    "participle": "glittered",
+    "third": "glitters",
+    "ing": "glittering"
+  },
+  {
+    "id": 360,
+    "base": "glow",
+    "past": "glowed",
+    "participle": "glowed",
+    "third": "glows",
+    "ing": "glowing"
+  },
+  {
+    "id": 361,
+    "base": "go",
+    "past": "went",
+    "participle": "gone",
+    "third": "goes",
+    "ing": "going"
+  },
+  {
+    "id": 362,
+    "base": "google",
+    "past": "googled",
+    "participle": "googled",
+    "third": "googles",
+    "ing": "googling"
+  },
+  {
+    "id": 363,
+    "base": "govern",
+    "past": "governed",
+    "participle": "governed",
+    "third": "governs",
+    "ing": "governing"
+  },
+  {
+    "id": 364,
+    "base": "grab",
+    "past": "grabbed",
+    "participle": "grabbed",
+    "third": "grabs",
+    "ing": "grabbing"
+  },
+  {
+    "id": 365,
+    "base": "grade",
+    "past": "graded",
+    "participle": "graded",
+    "third": "grades",
+    "ing": "grading"
+  },
+  {
+    "id": 366,
+    "base": "grant",
+    "past": "granted",
+    "participle": "granted",
+    "third": "grants",
+    "ing": "granting"
+  },
+  {
+    "id": 367,
+    "base": "greet",
+    "past": "greeted",
+    "participle": "greeted",
+    "third": "greets",
+    "ing": "greeting"
+  },
+  {
+    "id": 368,
+    "base": "grind",
+    "past": "ground",
+    "participle": "ground",
+    "third": "grinds",
+    "ing": "grinding"
+  },
+  {
+    "id": 369,
+    "base": "grip",
+    "past": "gripped",
+    "participle": "gripped",
+    "third": "grips",
+    "ing": "gripping"
+  },
+  {
+    "id": 370,
+    "base": "grow",
+    "past": "grew",
+    "participle": "grown",
+    "third": "grows",
+    "ing": "growing"
+  },
+  {
+    "id": 371,
+    "base": "guard",
+    "past": "guarded",
+    "participle": "guarded",
+    "third": "guards",
+    "ing": "guarding"
+  },
+  {
+    "id": 372,
+    "base": "guess",
+    "past": "guessed",
+    "participle": "guessed",
+    "third": "guesses",
+    "ing": "guessing"
+  },
+  {
+    "id": 373,
+    "base": "guide",
+    "past": "guided",
+    "participle": "guided",
+    "third": "guides",
+    "ing": "guiding"
+  },
+  {
+    "id": 374,
+    "base": "handle",
+    "past": "handled",
+    "participle": "handled",
+    "third": "handles",
+    "ing": "handling"
+  },
+  {
+    "id": 375,
+    "base": "hang",
+    "past": "hung",
+    "participle": "hung",
+    "third": "hangs",
+    "ing": "hanging"
+  },
+  {
+    "id": 376,
+    "base": "happen",
+    "past": "happened",
+    "participle": "happened",
+    "third": "happens",
+    "ing": "happening"
+  },
+  {
+    "id": 377,
+    "base": "harm",
+    "past": "harmed",
+    "participle": "harmed",
+    "third": "harms",
+    "ing": "harming"
+  },
+  {
+    "id": 378,
+    "base": "hatch",
+    "past": "hatched",
+    "participle": "hatched",
+    "third": "hatches",
+    "ing": "hatching"
+  },
+  {
+    "id": 379,
+    "base": "hate",
+    "past": "hated",
+    "participle": "hated",
+    "third": "hates",
+    "ing": "hating"
+  },
+  {
+    "id": 380,
+    "base": "have",
+    "past": "had",
+    "participle": "had",
+    "third": "has",
+    "ing": "having"
+  },
+  {
+    "id": 381,
+    "base": "heal",
+    "past": "healed",
+    "participle": "healed",
+    "third": "heals",
+    "ing": "healing"
+  },
+  {
+    "id": 382,
+    "base": "hear",
+    "past": "heard",
+    "participle": "heard",
+    "third": "hears",
+    "ing": "hearing"
+  },
+  {
+    "id": 383,
+    "base": "heave",
+    "past": "hove",
+    "participle": "hove",
+    "third": "heaves",
+    "ing": "heaving"
+  },
+  {
+    "id": 384,
+    "base": "help",
+    "past": "helped",
+    "participle": "helped",
+    "third": "helps",
+    "ing": "helping"
+  },
+  {
+    "id": 385,
+    "base": "hew",
+    "past": "hewed",
+    "participle": "hewn",
+    "third": "hews",
+    "ing": "hewing"
+  },
+  {
+    "id": 386,
+    "base": "hide",
+    "past": "hid",
+    "participle": "hidden",
+    "third": "hides",
+    "ing": "hiding"
+  },
+  {
+    "id": 387,
+    "base": "hinder",
+    "past": "hindered",
+    "participle": "hindered",
+    "third": "hinders",
+    "ing": "hindering"
+  },
+  {
+    "id": 388,
+    "base": "hiss",
+    "past": "hissed",
+    "participle": "hissed",
+    "third": "hisses",
+    "ing": "hissing"
+  },
+  {
+    "id": 389,
+    "base": "hit",
+    "past": "hit",
+    "participle": "hit",
+    "third": "hits",
+    "ing": "hitting"
+  },
+  {
+    "id": 390,
+    "base": "hoax",
+    "past": "hoaxed",
+    "participle": "hoaxed",
+    "third": "hoaxes",
+    "ing": "hoaxing"
+  },
+  {
+    "id": 391,
+    "base": "hold",
+    "past": "held",
+    "participle": "held",
+    "third": "holds",
+    "ing": "holding"
+  },
+  {
+    "id": 392,
+    "base": "hop",
+    "past": "hopped",
+    "participle": "hopped",
+    "third": "hops",
+    "ing": "hopping"
+  },
+  {
+    "id": 393,
+    "base": "hope",
+    "past": "hoped",
+    "participle": "hoped",
+    "third": "hopes",
+    "ing": "hoping"
+  },
+  {
+    "id": 394,
+    "base": "horrify",
+    "past": "horrified",
+    "participle": "horrified",
+    "third": "horrifies",
+    "ing": "horrifying"
+  },
+  {
+    "id": 395,
+    "base": "hug",
+    "past": "hugged",
+    "participle": "hugged",
+    "third": "hugs",
+    "ing": "hugging"
+  },
+  {
+    "id": 396,
+    "base": "hum",
+    "past": "hummed",
+    "participle": "hummed",
+    "third": "hums",
+    "ing": "humming"
+  },
+  {
+    "id": 397,
+    "base": "humiliate",
+    "past": "humiliated",
+    "participle": "humiliated",
+    "third": "humiliates",
+    "ing": "humiliating"
+  },
+  {
+    "id": 398,
+    "base": "hunt",
+    "past": "hunted",
+    "participle": "hunted",
+    "third": "hunts",
+    "ing": "hunting"
+  },
+  {
+    "id": 399,
+    "base": "hurl",
+    "past": "hurled",
+    "participle": "hurled",
+    "third": "hurls",
+    "ing": "hurling"
+  },
+  {
+    "id": 400,
+    "base": "hurry",
+    "past": "hurried",
+    "participle": "hurried",
+    "third": "hurries",
+    "ing": "hurrying"
+  },
+  {
+    "id": 401,
+    "base": "hurt",
+    "past": "hurt",
+    "participle": "hurt",
+    "third": "hurts",
+    "ing": "hurting"
+  },
+  {
+    "id": 402,
+    "base": "hush",
+    "past": "hushed",
+    "participle": "hushed",
+    "third": "hushes",
+    "ing": "hushing"
+  },
+  {
+    "id": 403,
+    "base": "hustle",
+    "past": "hustled",
+    "participle": "hustled",
+    "third": "hustles",
+    "ing": "hustling"
+  },
+  {
+    "id": 404,
+    "base": "hypnotize",
+    "past": "hypnotized",
+    "participle": "hypnotized",
+    "third": "hypnotizes",
+    "ing": "hypnotizing"
+  },
+  {
+    "id": 405,
+    "base": "idealize",
+    "past": "idealized",
+    "participle": "idealized",
+    "third": "idealizes",
+    "ing": "idealizing"
+  },
+  {
+    "id": 406,
+    "base": "identify",
+    "past": "identified",
+    "participle": "identified",
+    "third": "identifies",
+    "ing": "identifying"
+  },
+  {
+    "id": 407,
+    "base": "idolize",
+    "past": "idolized",
+    "participle": "idolized",
+    "third": "idolizes",
+    "ing": "idolizing"
+  },
+  {
+    "id": 408,
+    "base": "ignite",
+    "past": "ignited",
+    "participle": "ignited",
+    "third": "ignites",
+    "ing": "igniting"
+  },
+  {
+    "id": 409,
+    "base": "ignore",
+    "past": "ignored",
+    "participle": "ignored",
+    "third": "ignores",
+    "ing": "ignoring"
+  },
+  {
+    "id": 410,
+    "base": "ill-treat",
+    "past": "ill-treated",
+    "participle": "ill-treated",
+    "third": "ill-treats",
+    "ing": "ill-treating"
+  },
+  {
+    "id": 411,
+    "base": "illuminate",
+    "past": "illuminated",
+    "participle": "illuminated",
+    "third": "illuminates",
+    "ing": "illuminating"
+  },
+  {
+    "id": 412,
+    "base": "illumine",
+    "past": "illumined",
+    "participle": "illumined",
+    "third": "illumines",
+    "ing": "illumining"
+  },
+  {
+    "id": 413,
+    "base": "illustrate",
+    "past": "illustrated",
+    "participle": "illustrated",
+    "third": "illustrates",
+    "ing": "illustrating"
+  },
+  {
+    "id": 414,
+    "base": "imagine",
+    "past": "imagined",
+    "participle": "imagined",
+    "third": "imagines",
+    "ing": "imagining"
+  },
+  {
+    "id": 415,
+    "base": "imbibe",
+    "past": "imbibed",
+    "participle": "imbibed",
+    "third": "imbibes",
+    "ing": "imbibing"
+  },
+  {
+    "id": 416,
+    "base": "imitate",
+    "past": "imitated",
+    "participle": "imitated",
+    "third": "imitates",
+    "ing": "imitating"
+  },
+  {
+    "id": 417,
+    "base": "immerse",
+    "past": "immersed",
+    "participle": "immersed",
+    "third": "immerses",
+    "ing": "immersing"
+  },
+  {
+    "id": 418,
+    "base": "immolate",
+    "past": "immolated",
+    "participle": "immolated",
+    "third": "immolates",
+    "ing": "immolating"
+  },
+  {
+    "id": 419,
+    "base": "immure",
+    "past": "immured",
+    "participle": "immured",
+    "third": "immures",
+    "ing": "immuring"
+  },
+  {
+    "id": 420,
+    "base": "impair",
+    "past": "impaired",
+    "participle": "impaired",
+    "third": "impairs",
+    "ing": "impairing"
+  },
+  {
+    "id": 421,
+    "base": "impart",
+    "past": "imparted",
+    "participle": "imparted",
+    "third": "imparts",
+    "ing": "imparting"
+  },
+  {
+    "id": 422,
+    "base": "impeach",
+    "past": "impeached",
+    "participle": "impeached",
+    "third": "impeaches",
+    "ing": "impeaching"
+  },
+  {
+    "id": 423,
+    "base": "impede",
+    "past": "impeded",
+    "participle": "impeded",
+    "third": "impedes",
+    "ing": "impeding"
+  },
+  {
+    "id": 424,
+    "base": "impel",
+    "past": "impelled",
+    "participle": "impelled",
+    "third": "impels",
+    "ing": "impelling"
+  },
+  {
+    "id": 425,
+    "base": "impend",
+    "past": "impended",
+    "participle": "impended",
+    "third": "impends",
+    "ing": "impending"
+  },
+  {
+    "id": 426,
+    "base": "imperil",
+    "past": "imperilled",
+    "participle": "imperilled",
+    "third": "imperils",
+    "ing": "imperilling"
+  },
+  {
+    "id": 427,
+    "base": "impinge",
+    "past": "impinged",
+    "participle": "impinged",
+    "third": "impinges",
+    "ing": "impinging"
+  },
+  {
+    "id": 428,
+    "base": "implant",
+    "past": "implanted",
+    "participle": "implanted",
+    "third": "implants",
+    "ing": "implanting"
+  },
+  {
+    "id": 429,
+    "base": "implicate",
+    "past": "implicated",
+    "participle": "implicated",
+    "third": "implicates",
+    "ing": "implicating"
+  },
+  {
+    "id": 430,
+    "base": "implode",
+    "past": "imploded",
+    "participle": "imploded",
+    "third": "implodes",
+    "ing": "imploding"
+  },
+  {
+    "id": 431,
+    "base": "implore",
+    "past": "implored",
+    "participle": "implored",
+    "third": "implores",
+    "ing": "imploring"
+  },
+  {
+    "id": 432,
+    "base": "imply",
+    "past": "implied",
+    "participle": "implied",
+    "third": "implies",
+    "ing": "implying"
+  },
+  {
+    "id": 433,
+    "base": "import",
+    "past": "imported",
+    "participle": "imported",
+    "third": "imports",
+    "ing": "importing"
+  },
+  {
+    "id": 434,
+    "base": "impose",
+    "past": "imposed",
+    "participle": "imposed",
+    "third": "imposes",
+    "ing": "imposing"
+  },
+  {
+    "id": 435,
+    "base": "impress",
+    "past": "impressed",
+    "participle": "impressed",
+    "third": "impresses",
+    "ing": "impressing"
+  },
+  {
+    "id": 436,
+    "base": "imprint",
+    "past": "imprinted",
+    "participle": "imprinted",
+    "third": "imprints",
+    "ing": "imprinting"
+  },
+  {
+    "id": 437,
+    "base": "imprison",
+    "past": "imprisoned",
+    "participle": "imprisoned",
+    "third": "imprisons",
+    "ing": "imprisoning"
+  },
+  {
+    "id": 438,
+    "base": "improve",
+    "past": "improved",
+    "participle": "improved",
+    "third": "improves",
+    "ing": "improving"
+  },
+  {
+    "id": 439,
+    "base": "inaugurate",
+    "past": "inaugurated",
+    "participle": "inaugurated",
+    "third": "inaugurates",
+    "ing": "inaugurating"
+  },
+  {
+    "id": 440,
+    "base": "incise",
+    "past": "incised",
+    "participle": "incised",
+    "third": "incises",
+    "ing": "incising"
+  },
+  {
+    "id": 441,
+    "base": "include",
+    "past": "included",
+    "participle": "included",
+    "third": "includes",
+    "ing": "including"
+  },
+  {
+    "id": 442,
+    "base": "increase",
+    "past": "increased",
+    "participle": "increased",
+    "third": "increases",
+    "ing": "increasing"
+  },
+  {
+    "id": 443,
+    "base": "inculcate",
+    "past": "inculcated",
+    "participle": "inculcated",
+    "third": "inculcates",
+    "ing": "inculcating"
+  },
+  {
+    "id": 444,
+    "base": "indent",
+    "past": "indented",
+    "participle": "indented",
+    "third": "indents",
+    "ing": "indenting"
+  },
+  {
+    "id": 445,
+    "base": "indicate",
+    "past": "indicated",
+    "participle": "indicated",
+    "third": "indicates",
+    "ing": "indicating"
+  },
+  {
+    "id": 446,
+    "base": "induce",
+    "past": "induced",
+    "participle": "induced",
+    "third": "induces",
+    "ing": "inducing"
+  },
+  {
+    "id": 447,
+    "base": "indulge",
+    "past": "indulged",
+    "participle": "indulged",
+    "third": "indulges",
+    "ing": "indulging"
+  },
+  {
+    "id": 448,
+    "base": "infect",
+    "past": "infected",
+    "participle": "infected",
+    "third": "infects",
+    "ing": "infecting"
+  },
+  {
+    "id": 449,
+    "base": "infest",
+    "past": "infested",
+    "participle": "infested",
+    "third": "infests",
+    "ing": "infesting"
+  },
+  {
+    "id": 450,
+    "base": "inflame",
+    "past": "inflamed",
+    "participle": "inflamed",
+    "third": "inflames",
+    "ing": "inflaming"
+  },
+  {
+    "id": 451,
+    "base": "inflate",
+    "past": "inflated",
+    "participle": "inflated",
+    "third": "inflates",
+    "ing": "inflating"
+  },
+  {
+    "id": 452,
+    "base": "inflect",
+    "past": "inflected",
+    "participle": "inflected",
+    "third": "inflects",
+    "ing": "inflecting"
+  },
+  {
+    "id": 453,
+    "base": "inform",
+    "past": "informed",
+    "participle": "informed",
+    "third": "informs",
+    "ing": "informing"
+  },
+  {
+    "id": 454,
+    "base": "infringe",
+    "past": "infringed",
+    "participle": "infringed",
+    "third": "infringes",
+    "ing": "infringing"
+  },
+  {
+    "id": 455,
+    "base": "infuse",
+    "past": "infused",
+    "participle": "infused",
+    "third": "infuses",
+    "ing": "infusing"
+  },
+  {
+    "id": 456,
+    "base": "ingest",
+    "past": "ingested",
+    "participle": "ingested",
+    "third": "ingests",
+    "ing": "ingesting"
+  },
+  {
+    "id": 457,
+    "base": "inhabit",
+    "past": "inhabited",
+    "participle": "inhabited",
+    "third": "inhabits",
+    "ing": "inhabiting"
+  },
+  {
+    "id": 458,
+    "base": "inhale",
+    "past": "inhaled",
+    "participle": "inhaled",
+    "third": "inhales",
+    "ing": "inhaling"
+  },
+  {
+    "id": 459,
+    "base": "inherit",
+    "past": "inherited",
+    "participle": "inherited",
+    "third": "inherits",
+    "ing": "inheriting"
+  },
+  {
+    "id": 460,
+    "base": "initiate",
+    "past": "initiated",
+    "participle": "initiated",
+    "third": "initiates",
+    "ing": "initiating"
+  },
+  {
+    "id": 461,
+    "base": "inject",
+    "past": "injected",
+    "participle": "injected",
+    "third": "injects",
+    "ing": "injecting"
+  },
+  {
+    "id": 462,
+    "base": "injure",
+    "past": "injured",
+    "participle": "injured",
+    "third": "injures",
+    "ing": "injuring"
+  },
+  {
+    "id": 463,
+    "base": "inlay",
+    "past": "inlaid",
+    "participle": "inlaid",
+    "third": "inlays",
+    "ing": "inlaying"
+  },
+  {
+    "id": 464,
+    "base": "innovate",
+    "past": "innovated",
+    "participle": "innovated",
+    "third": "innovates",
+    "ing": "innovating"
+  },
+  {
+    "id": 465,
+    "base": "input",
+    "past": "input",
+    "participle": "input",
+    "third": "inputs",
+    "ing": "inputting"
+  },
+  {
+    "id": 466,
+    "base": "inquire",
+    "past": "inquired",
+    "participle": "inquired",
+    "third": "inquires",
+    "ing": "inquiring"
+  },
+  {
+    "id": 467,
+    "base": "inscribe",
+    "past": "inscribed",
+    "participle": "inscribed",
+    "third": "inscribes",
+    "ing": "inscribing"
+  },
+  {
+    "id": 468,
+    "base": "insert",
+    "past": "inserted",
+    "participle": "inserted",
+    "third": "inserts",
+    "ing": "inserting"
+  },
+  {
+    "id": 469,
+    "base": "inspect",
+    "past": "inspected",
+    "participle": "inspected",
+    "third": "inspects",
+    "ing": "inspecting"
+  },
+  {
+    "id": 470,
+    "base": "inspire",
+    "past": "inspired",
+    "participle": "inspired",
+    "third": "inspires",
+    "ing": "inspiring"
+  },
+  {
+    "id": 471,
+    "base": "install",
+    "past": "installed",
+    "participle": "installed",
+    "third": "installs",
+    "ing": "installing"
+  },
+  {
+    "id": 472,
+    "base": "insult",
+    "past": "insulted",
+    "participle": "insulted",
+    "third": "insults",
+    "ing": "insulting"
+  },
+  {
+    "id": 473,
+    "base": "insure",
+    "past": "insured",
+    "participle": "insured",
+    "third": "insures",
+    "ing": "insuring"
+  },
+  {
+    "id": 474,
+    "base": "integrate",
+    "past": "integrated",
+    "participle": "integrated",
+    "third": "integrates",
+    "ing": "integrating"
+  },
+  {
+    "id": 475,
+    "base": "introduce",
+    "past": "introduced",
+    "participle": "introduced",
+    "third": "introduces",
+    "ing": "introducing"
+  },
+  {
+    "id": 476,
+    "base": "invent",
+    "past": "invented",
+    "participle": "invented",
+    "third": "invents",
+    "ing": "inventing"
+  },
+  {
+    "id": 477,
+    "base": "invite",
+    "past": "invited",
+    "participle": "invited",
+    "third": "invites",
+    "ing": "inviting"
+  },
+  {
+    "id": 478,
+    "base": "join",
+    "past": "joined",
+    "participle": "joined",
+    "third": "joins",
+    "ing": "joining"
+  },
+  {
+    "id": 479,
+    "base": "jump",
+    "past": "jumped",
+    "participle": "jumped",
+    "third": "jumps",
+    "ing": "jumping"
+  },
+  {
+    "id": 480,
+    "base": "justify",
+    "past": "justified",
+    "participle": "justified",
+    "third": "justifies",
+    "ing": "justifying"
+  },
+  {
+    "id": 481,
+    "base": "keep",
+    "past": "kept",
+    "participle": "kept",
+    "third": "keeps",
+    "ing": "keeping"
+  },
+  {
+    "id": 482,
+    "base": "kick",
+    "past": "kicked",
+    "participle": "kicked",
+    "third": "kicks",
+    "ing": "kicking"
+  },
+  {
+    "id": 483,
+    "base": "kid",
+    "past": "kidded",
+    "participle": "kidded",
+    "third": "kids",
+    "ing": "kidding"
+  },
+  {
+    "id": 484,
+    "base": "kill",
+    "past": "killed",
+    "participle": "killed",
+    "third": "kills",
+    "ing": "killing"
+  },
+  {
+    "id": 485,
+    "base": "kiss",
+    "past": "kissed",
+    "participle": "kissed",
+    "third": "kisses",
+    "ing": "kissing"
+  },
+  {
+    "id": 486,
+    "base": "kneel",
+    "past": "knelt",
+    "participle": "knelt",
+    "third": "kneels",
+    "ing": "kneeling"
+  },
+  {
+    "id": 487,
+    "base": "knit",
+    "past": "knit",
+    "participle": "knit",
+    "third": "knits",
+    "ing": "knitting"
+  },
+  {
+    "id": 488,
+    "base": "knock",
+    "past": "knocked",
+    "participle": "knocked",
+    "third": "knocks",
+    "ing": "knocking"
+  },
+  {
+    "id": 489,
+    "base": "know",
+    "past": "knew",
+    "participle": "known",
+    "third": "knows",
+    "ing": "knowing"
+  },
+  {
+    "id": 490,
+    "base": "lade",
+    "past": "laded",
+    "participle": "laden",
+    "third": "lades",
+    "ing": "lading"
+  },
+  {
+    "id": 491,
+    "base": "land",
+    "past": "landed",
+    "participle": "landed",
+    "third": "lands",
+    "ing": "landing"
+  },
+  {
+    "id": 492,
+    "base": "last",
+    "past": "lasted",
+    "participle": "lasted",
+    "third": "lasts",
+    "ing": "lasting"
+  },
+  {
+    "id": 493,
+    "base": "latch",
+    "past": "latched",
+    "participle": "latched",
+    "third": "latches",
+    "ing": "latching"
+  },
+  {
+    "id": 494,
+    "base": "laugh",
+    "past": "laughed",
+    "participle": "laughed",
+    "third": "laughs",
+    "ing": "laughing"
+  },
+  {
+    "id": 495,
+    "base": "lay",
+    "past": "laid",
+    "participle": "laid",
+    "third": "lays",
+    "ing": "laying"
+  },
+  {
+    "id": 496,
+    "base": "lead",
+    "past": "led",
+    "participle": "led",
+    "third": "leads",
+    "ing": "leading"
+  },
+  {
+    "id": 497,
+    "base": "leak",
+    "past": "leaked",
+    "participle": "leaked",
+    "third": "leaks",
+    "ing": "leaking"
+  },
+  {
+    "id": 498,
+    "base": "lean",
+    "past": "leant",
+    "participle": "leant",
+    "third": "leans",
+    "ing": "leaning"
+  },
+  {
+    "id": 499,
+    "base": "leap",
+    "past": "leapt",
+    "participle": "leapt",
+    "third": "leaps",
+    "ing": "leaping"
+  },
+  {
+    "id": 500,
+    "base": "learn",
+    "past": "learnt",
+    "participle": "learnt",
+    "third": "learns",
+    "ing": "learning"
+  },
+  {
+    "id": 501,
+    "base": "leave",
+    "past": "left",
+    "participle": "left",
+    "third": "leaves",
+    "ing": "leaving"
+  },
+  {
+    "id": 502,
+    "base": "leer",
+    "past": "leered",
+    "participle": "leered",
+    "third": "leers",
+    "ing": "leering"
+  },
+  {
+    "id": 503,
+    "base": "lend",
+    "past": "lent",
+    "participle": "lent",
+    "third": "lends",
+    "ing": "lending"
+  },
+  {
+    "id": 504,
+    "base": "let",
+    "past": "let",
+    "participle": "let",
+    "third": "lets",
+    "ing": "letting"
+  },
+  {
+    "id": 505,
+    "base": "lick",
+    "past": "licked",
+    "participle": "licked",
+    "third": "licks",
+    "ing": "licking"
+  },
+  {
+    "id": 506,
+    "base": "lie",
+    "past": "lay",
+    "participle": "lain",
+    "third": "lies",
+    "ing": "lying"
+  },
+  {
+    "id": 507,
+    "base": "lie",
+    "past": "lied",
+    "participle": "lied",
+    "third": "lies",
+    "ing": "lying"
+  },
+  {
+    "id": 508,
+    "base": "lift",
+    "past": "lifted",
+    "participle": "lifted",
+    "third": "lifts",
+    "ing": "lifting"
+  },
+  {
+    "id": 509,
+    "base": "light",
+    "past": "lit",
+    "participle": "lit",
+    "third": "lights",
+    "ing": "lighting"
+  },
+  {
+    "id": 510,
+    "base": "like",
+    "past": "liked",
+    "participle": "liked",
+    "third": "likes",
+    "ing": "liking"
+  },
+  {
+    "id": 511,
+    "base": "limp",
+    "past": "limped",
+    "participle": "limped",
+    "third": "limps",
+    "ing": "limping"
+  },
+  {
+    "id": 512,
+    "base": "listen",
+    "past": "listened",
+    "participle": "listened",
+    "third": "listens",
+    "ing": "listening"
+  },
+  {
+    "id": 513,
+    "base": "live",
+    "past": "lived",
+    "participle": "lived",
+    "third": "lives",
+    "ing": "living"
+  },
+  {
+    "id": 514,
+    "base": "look",
+    "past": "looked",
+    "participle": "looked",
+    "third": "looks",
+    "ing": "looking"
+  },
+  {
+    "id": 515,
+    "base": "lose",
+    "past": "lost",
+    "participle": "lost",
+    "third": "loses",
+    "ing": "losing"
+  },
+  {
+    "id": 516,
+    "base": "love",
+    "past": "loved",
+    "participle": "loved",
+    "third": "loves",
+    "ing": "loving"
+  },
+  {
+    "id": 517,
+    "base": "magnify",
+    "past": "magnified",
+    "participle": "magnified",
+    "third": "magnifies",
+    "ing": "magnifying"
+  },
+  {
+    "id": 518,
+    "base": "maintain",
+    "past": "maintained",
+    "participle": "maintained",
+    "third": "maintains",
+    "ing": "maintaining"
+  },
+  {
+    "id": 519,
+    "base": "make",
+    "past": "made",
+    "participle": "made",
+    "third": "makes",
+    "ing": "making"
+  },
+  {
+    "id": 520,
+    "base": "manage",
+    "past": "managed",
+    "participle": "managed",
+    "third": "manages",
+    "ing": "managing"
+  },
+  {
+    "id": 521,
+    "base": "march",
+    "past": "marched",
+    "participle": "marched",
+    "third": "marches",
+    "ing": "marching"
+  },
+  {
+    "id": 522,
+    "base": "mark",
+    "past": "marked",
+    "participle": "marked",
+    "third": "marks",
+    "ing": "marking"
+  },
+  {
+    "id": 523,
+    "base": "marry",
+    "past": "married",
+    "participle": "married",
+    "third": "marries",
+    "ing": "marrying"
+  },
+  {
+    "id": 524,
+    "base": "mash",
+    "past": "mashed",
+    "participle": "mashed",
+    "third": "mashes",
+    "ing": "mashing"
+  },
+  {
+    "id": 525,
+    "base": "match",
+    "past": "matched",
+    "participle": "matched",
+    "third": "matches",
+    "ing": "matching"
+  },
+  {
+    "id": 526,
+    "base": "matter",
+    "past": "mattered",
+    "participle": "mattered",
+    "third": "matters",
+    "ing": "mattering"
+  },
+  {
+    "id": 527,
+    "base": "mean",
+    "past": "meant",
+    "participle": "meant",
+    "third": "means",
+    "ing": "meaning"
+  },
+  {
+    "id": 528,
+    "base": "measure",
+    "past": "measured",
+    "participle": "measured",
+    "third": "measures",
+    "ing": "measuring"
+  },
+  {
+    "id": 529,
+    "base": "meet",
+    "past": "met",
+    "participle": "met",
+    "third": "meets",
+    "ing": "meeting"
+  },
+  {
+    "id": 530,
+    "base": "melt",
+    "past": "melted",
+    "participle": "melted",
+    "third": "melts",
+    "ing": "melting"
+  },
+  {
+    "id": 531,
+    "base": "merge",
+    "past": "merged",
+    "participle": "merged",
+    "third": "merges",
+    "ing": "merging"
+  },
+  {
+    "id": 532,
+    "base": "mew",
+    "past": "mewed",
+    "participle": "mewed",
+    "third": "mews",
+    "ing": "mewing"
+  },
+  {
+    "id": 533,
+    "base": "migrate",
+    "past": "migrated",
+    "participle": "migrated",
+    "third": "migrates",
+    "ing": "migrating"
+  },
+  {
+    "id": 534,
+    "base": "milk",
+    "past": "milked",
+    "participle": "milked",
+    "third": "milks",
+    "ing": "milking"
+  },
+  {
+    "id": 535,
+    "base": "mind",
+    "past": "minded",
+    "participle": "minded",
+    "third": "minds",
+    "ing": "minding"
+  },
+  {
+    "id": 536,
+    "base": "mislead",
+    "past": "misled",
+    "participle": "misled",
+    "third": "misleads",
+    "ing": "misleading"
+  },
+  {
+    "id": 537,
+    "base": "miss",
+    "past": "missed",
+    "participle": "missed",
+    "third": "misses",
+    "ing": "missing"
+  },
+  {
+    "id": 538,
+    "base": "mistake",
+    "past": "mistook",
+    "participle": "mistaken",
+    "third": "mistakes",
+    "ing": "mistaking"
+  },
+  {
+    "id": 539,
+    "base": "misuse",
+    "past": "misused",
+    "participle": "misused",
+    "third": "misuses",
+    "ing": "misusing"
+  },
+  {
+    "id": 540,
+    "base": "mix",
+    "past": "mixed",
+    "participle": "mixed",
+    "third": "mixes",
+    "ing": "mixing"
+  },
+  {
+    "id": 541,
+    "base": "moan",
+    "past": "moaned",
+    "participle": "moaned",
+    "third": "moans",
+    "ing": "moaning"
+  },
+  {
+    "id": 542,
+    "base": "modify",
+    "past": "modified",
+    "participle": "modified",
+    "third": "modifies",
+    "ing": "modifying"
+  },
+  {
+    "id": 543,
+    "base": "moo",
+    "past": "mooed",
+    "participle": "mooed",
+    "third": "moos",
+    "ing": "mooing"
+  },
+  {
+    "id": 544,
+    "base": "motivate",
+    "past": "motivated",
+    "participle": "motivated",
+    "third": "motivates",
+    "ing": "motivating"
+  },
+  {
+    "id": 545,
+    "base": "mould",
+    "past": "moulded",
+    "participle": "moulded",
+    "third": "moulds",
+    "ing": "moulding"
+  },
+  {
+    "id": 546,
+    "base": "moult",
+    "past": "moulted",
+    "participle": "moulted",
+    "third": "moults",
+    "ing": "moulting"
+  },
+  {
+    "id": 547,
+    "base": "move",
+    "past": "moved",
+    "participle": "moved",
+    "third": "moves",
+    "ing": "moving"
+  },
+  {
+    "id": 548,
+    "base": "mow",
+    "past": "mowed",
+    "participle": "mown",
+    "third": "mows",
+    "ing": "mowing"
+  },
+  {
+    "id": 549,
+    "base": "multiply",
+    "past": "multiplied",
+    "participle": "multiplied",
+    "third": "multiplies",
+    "ing": "multiplying"
+  },
+  {
+    "id": 550,
+    "base": "murmur",
+    "past": "murmured",
+    "participle": "murmured",
+    "third": "murmurs",
+    "ing": "murmuring"
+  },
+  {
+    "id": 551,
+    "base": "nail",
+    "past": "nailed",
+    "participle": "nailed",
+    "third": "nails",
+    "ing": "nailing"
+  },
+  {
+    "id": 552,
+    "base": "nap",
+    "past": "napped",
+    "participle": "napped",
+    "third": "naps",
+    "ing": "napping"
+  },
+  {
+    "id": 553,
+    "base": "need",
+    "past": "needed",
+    "participle": "needed",
+    "third": "needs",
+    "ing": "needing"
+  },
+  {
+    "id": 554,
+    "base": "neglect",
+    "past": "neglected",
+    "participle": "neglected",
+    "third": "neglects",
+    "ing": "neglecting"
+  },
+  {
+    "id": 555,
+    "base": "nip",
+    "past": "nipped",
+    "participle": "nipped",
+    "third": "nips",
+    "ing": "nipping"
+  },
+  {
+    "id": 556,
+    "base": "nod",
+    "past": "nodded",
+    "participle": "nodded",
+    "third": "nods",
+    "ing": "nodding"
+  },
+  {
+    "id": 557,
+    "base": "note",
+    "past": "noted",
+    "participle": "noted",
+    "third": "notes",
+    "ing": "noting"
+  },
+  {
+    "id": 558,
+    "base": "notice",
+    "past": "noticed",
+    "participle": "noticed",
+    "third": "notices",
+    "ing": "noticing"
+  },
+  {
+    "id": 559,
+    "base": "notify",
+    "past": "notified",
+    "participle": "notified",
+    "third": "notifies",
+    "ing": "notifying"
+  },
+  {
+    "id": 560,
+    "base": "nourish",
+    "past": "nourished",
+    "participle": "nourished",
+    "third": "nourishes",
+    "ing": "nourishing"
+  },
+  {
+    "id": 561,
+    "base": "nurse",
+    "past": "nursed",
+    "participle": "nursed",
+    "third": "nurses",
+    "ing": "nursing"
+  },
+  {
+    "id": 562,
+    "base": "obey",
+    "past": "obeyed",
+    "participle": "obeyed",
+    "third": "obeys",
+    "ing": "obeying"
+  },
+  {
+    "id": 563,
+    "base": "oblige",
+    "past": "obliged",
+    "participle": "obliged",
+    "third": "obliges",
+    "ing": "obliging"
+  },
+  {
+    "id": 564,
+    "base": "observe",
+    "past": "observed",
+    "participle": "observed",
+    "third": "observes",
+    "ing": "observing"
+  },
+  {
+    "id": 565,
+    "base": "obstruct",
+    "past": "obstructed",
+    "participle": "obstructed",
+    "third": "obstructs",
+    "ing": "obstructing"
+  },
+  {
+    "id": 566,
+    "base": "obtain",
+    "past": "obtained",
+    "participle": "obtained",
+    "third": "obtains",
+    "ing": "obtaining"
+  },
+  {
+    "id": 567,
+    "base": "occupy",
+    "past": "occupied",
+    "participle": "occupied",
+    "third": "occupies",
+    "ing": "occupying"
+  },
+  {
+    "id": 568,
+    "base": "occur",
+    "past": "occurred",
+    "participle": "occurred",
+    "third": "occurs",
+    "ing": "occurring"
+  },
+  {
+    "id": 569,
+    "base": "offer",
+    "past": "offered",
+    "participle": "offered",
+    "third": "offers",
+    "ing": "offering"
+  },
+  {
+    "id": 570,
+    "base": "offset",
+    "past": "offset",
+    "participle": "offset",
+    "third": "offsets",
+    "ing": "offsetting"
+  },
+  {
+    "id": 571,
+    "base": "omit",
+    "past": "omitted",
+    "participle": "omitted",
+    "third": "omits",
+    "ing": "omitting"
+  },
+  {
+    "id": 572,
+    "base": "ooze",
+    "past": "oozed",
+    "participle": "oozed",
+    "third": "oozes",
+    "ing": "oozing"
+  },
+  {
+    "id": 573,
+    "base": "open",
+    "past": "opened",
+    "participle": "opened",
+    "third": "opens",
+    "ing": "opening"
+  },
+  {
+    "id": 574,
+    "base": "operate",
+    "past": "operated",
+    "participle": "operated",
+    "third": "operates",
+    "ing": "operating"
+  },
+  {
+    "id": 575,
+    "base": "opine",
+    "past": "opined",
+    "participle": "opined",
+    "third": "opines",
+    "ing": "opining"
+  },
+  {
+    "id": 576,
+    "base": "oppress",
+    "past": "oppressed",
+    "participle": "oppressed",
+    "third": "oppresses",
+    "ing": "oppressing"
+  },
+  {
+    "id": 577,
+    "base": "opt",
+    "past": "opted",
+    "participle": "opted",
+    "third": "opts",
+    "ing": "opting"
+  },
+  {
+    "id": 578,
+    "base": "optimize",
+    "past": "optimized",
+    "participle": "optimized",
+    "third": "optimizes",
+    "ing": "optimizing"
+  },
+  {
+    "id": 579,
+    "base": "order",
+    "past": "ordered",
+    "participle": "ordered",
+    "third": "orders",
+    "ing": "ordering"
+  },
+  {
+    "id": 580,
+    "base": "organize",
+    "past": "organized",
+    "participle": "organized",
+    "third": "organizes",
+    "ing": "organizing"
+  },
+  {
+    "id": 581,
+    "base": "originate",
+    "past": "originated",
+    "participle": "originated",
+    "third": "originates",
+    "ing": "originating"
+  },
+  {
+    "id": 582,
+    "base": "output",
+    "past": "output",
+    "participle": "output",
+    "third": "outputs",
+    "ing": "outputting"
+  },
+  {
+    "id": 583,
+    "base": "overflow",
+    "past": "overflowed",
+    "participle": "overflowed",
+    "third": "overflows",
+    "ing": "overflowing"
+  },
+  {
+    "id": 584,
+    "base": "overtake",
+    "past": "overtook",
+    "participle": "overtaken",
+    "third": "overtakes",
+    "ing": "overtaking"
+  },
+  {
+    "id": 585,
+    "base": "owe",
+    "past": "owed",
+    "participle": "owed",
+    "third": "owes",
+    "ing": "owing"
+  },
+  {
+    "id": 586,
+    "base": "own",
+    "past": "owned",
+    "participle": "owned",
+    "third": "owns",
+    "ing": "owning"
+  },
+  {
+    "id": 587,
+    "base": "pacify",
+    "past": "pacified",
+    "participle": "pacified",
+    "third": "pacifies",
+    "ing": "pacifying"
+  },
+  {
+    "id": 588,
+    "base": "paint",
+    "past": "painted",
+    "participle": "painted",
+    "third": "paints",
+    "ing": "painting"
+  },
+  {
+    "id": 589,
+    "base": "pardon",
+    "past": "pardoned",
+    "participle": "pardoned",
+    "third": "pardons",
+    "ing": "pardoning"
+  },
+  {
+    "id": 590,
+    "base": "part",
+    "past": "parted",
+    "participle": "parted",
+    "third": "parts",
+    "ing": "parting"
+  },
+  {
+    "id": 591,
+    "base": "partake",
+    "past": "partook",
+    "participle": "partaken",
+    "third": "partakes",
+    "ing": "partaking"
+  },
+  {
+    "id": 592,
+    "base": "participate",
+    "past": "participated",
+    "participle": "participated",
+    "third": "participates",
+    "ing": "participating"
+  },
+  {
+    "id": 593,
+    "base": "pass",
+    "past": "passed",
+    "participle": "passed",
+    "third": "passes",
+    "ing": "passing"
+  },
+  {
+    "id": 594,
+    "base": "paste",
+    "past": "pasted",
+    "participle": "pasted",
+    "third": "pastes",
+    "ing": "pasting"
+  },
+  {
+    "id": 595,
+    "base": "pat",
+    "past": "patted",
+    "participle": "patted",
+    "third": "pats",
+    "ing": "patting"
+  },
+  {
+    "id": 596,
+    "base": "patch",
+    "past": "patched",
+    "participle": "patched",
+    "third": "patches",
+    "ing": "patching"
+  },
+  {
+    "id": 597,
+    "base": "pause",
+    "past": "paused",
+    "participle": "paused",
+    "third": "pauses",
+    "ing": "pausing"
+  },
+  {
+    "id": 598,
+    "base": "pay",
+    "past": "paid",
+    "participle": "paid",
+    "third": "pays",
+    "ing": "paying"
+  },
+  {
+    "id": 599,
+    "base": "peep",
+    "past": "peeped",
+    "participle": "peeped",
+    "third": "peeps",
+    "ing": "peeping"
+  },
+  {
+    "id": 600,
+    "base": "perish",
+    "past": "perished",
+    "participle": "perished",
+    "third": "perishes",
+    "ing": "perishing"
+  },
+  {
+    "id": 601,
+    "base": "permit",
+    "past": "permitted",
+    "participle": "permitted",
+    "third": "permits",
+    "ing": "permitting"
+  },
+  {
+    "id": 602,
+    "base": "persuade",
+    "past": "persuaded",
+    "participle": "persuaded",
+    "third": "persuades",
+    "ing": "persuading"
+  },
+  {
+    "id": 603,
+    "base": "phone",
+    "past": "phoned",
+    "participle": "phoned",
+    "third": "phones",
+    "ing": "phoning"
+  },
+  {
+    "id": 604,
+    "base": "place",
+    "past": "placed",
+    "participle": "placed",
+    "third": "places",
+    "ing": "placing"
+  },
+  {
+    "id": 605,
+    "base": "plan",
+    "past": "planned",
+    "participle": "planned",
+    "third": "plans",
+    "ing": "planning"
+  },
+  {
+    "id": 606,
+    "base": "play",
+    "past": "played",
+    "participle": "played",
+    "third": "plays",
+    "ing": "playing"
+  },
+  {
+    "id": 607,
+    "base": "plead",
+    "past": "pled",
+    "participle": "pled",
+    "third": "pleads",
+    "ing": "pleading"
+  },
+  {
+    "id": 608,
+    "base": "please",
+    "past": "pleased",
+    "participle": "pleased",
+    "third": "pleases",
+    "ing": "pleasing"
+  },
+  {
+    "id": 609,
+    "base": "plod",
+    "past": "plodded",
+    "participle": "plodded",
+    "third": "plods",
+    "ing": "plodding"
+  },
+  {
+    "id": 610,
+    "base": "plot",
+    "past": "plotted",
+    "participle": "plotted",
+    "third": "plots",
+    "ing": "plotting"
+  },
+  {
+    "id": 611,
+    "base": "pluck",
+    "past": "plucked",
+    "participle": "plucked",
+    "third": "plucks",
+    "ing": "plucking"
+  },
+  {
+    "id": 612,
+    "base": "ply",
+    "past": "plied",
+    "participle": "plied",
+    "third": "plies",
+    "ing": "plying"
+  },
+  {
+    "id": 613,
+    "base": "point",
+    "past": "pointed",
+    "participle": "pointed",
+    "third": "points",
+    "ing": "pointing"
+  },
+  {
+    "id": 614,
+    "base": "polish",
+    "past": "polished",
+    "participle": "polished",
+    "third": "polishes",
+    "ing": "polishing"
+  },
+  {
+    "id": 615,
+    "base": "pollute",
+    "past": "polluted",
+    "participle": "polluted",
+    "third": "pollutes",
+    "ing": "polluting"
+  },
+  {
+    "id": 616,
+    "base": "ponder",
+    "past": "pondered",
+    "participle": "pondered",
+    "third": "ponders",
+    "ing": "pondering"
+  },
+  {
+    "id": 617,
+    "base": "pour",
+    "past": "poured",
+    "participle": "poured",
+    "third": "pours",
+    "ing": "pouring"
+  },
+  {
+    "id": 618,
+    "base": "pout",
+    "past": "pouted",
+    "participle": "pouted",
+    "third": "pouts",
+    "ing": "pouting"
+  },
+  {
+    "id": 619,
+    "base": "practise",
+    "past": "practised",
+    "participle": "practised",
+    "third": "practises",
+    "ing": "practising"
+  },
+  {
+    "id": 620,
+    "base": "praise",
+    "past": "praised",
+    "participle": "praised",
+    "third": "praises",
+    "ing": "praising"
+  },
+  {
+    "id": 621,
+    "base": "pray",
+    "past": "prayed",
+    "participle": "prayed",
+    "third": "prays",
+    "ing": "praying"
+  },
+  {
+    "id": 622,
+    "base": "preach",
+    "past": "preached",
+    "participle": "preached",
+    "third": "preaches",
+    "ing": "preaching"
+  },
+  {
+    "id": 623,
+    "base": "prefer",
+    "past": "preferred",
+    "participle": "preferred",
+    "third": "prefers",
+    "ing": "preferring"
+  },
+  {
+    "id": 624,
+    "base": "prepare",
+    "past": "prepared",
+    "participle": "prepared",
+    "third": "prepares",
+    "ing": "preparing"
+  },
+  {
+    "id": 625,
+    "base": "prescribe",
+    "past": "prescribed",
+    "participle": "prescribed",
+    "third": "prescribes",
+    "ing": "prescribing"
+  },
+  {
+    "id": 626,
+    "base": "present",
+    "past": "presented",
+    "participle": "presented",
+    "third": "presents",
+    "ing": "presenting"
+  },
+  {
+    "id": 627,
+    "base": "preserve",
+    "past": "preserved",
+    "participle": "preserved",
+    "third": "preserves",
+    "ing": "preserving"
+  },
+  {
+    "id": 628,
+    "base": "preset",
+    "past": "preset",
+    "participle": "preset",
+    "third": "presets",
+    "ing": "presetting"
+  },
+  {
+    "id": 629,
+    "base": "preside",
+    "past": "presided",
+    "participle": "presided",
+    "third": "presides",
+    "ing": "presiding"
+  },
+  {
+    "id": 630,
+    "base": "press",
+    "past": "pressed",
+    "participle": "pressed",
+    "third": "presses",
+    "ing": "pressing"
+  },
+  {
+    "id": 631,
+    "base": "pretend",
+    "past": "pretended",
+    "participle": "pretended",
+    "third": "pretends",
+    "ing": "pretending"
+  },
+  {
+    "id": 632,
+    "base": "prevent",
+    "past": "prevented",
+    "participle": "prevented",
+    "third": "prevents",
+    "ing": "preventing"
+  },
+  {
+    "id": 633,
+    "base": "print",
+    "past": "printed",
+    "participle": "printed",
+    "third": "prints",
+    "ing": "printing"
+  },
+  {
+    "id": 634,
+    "base": "proceed",
+    "past": "proceeded",
+    "participle": "proceeded",
+    "third": "proceeds",
+    "ing": "proceeding"
+  },
+  {
+    "id": 635,
+    "base": "produce",
+    "past": "produced",
+    "participle": "produced",
+    "third": "produces",
+    "ing": "producing"
+  },
+  {
+    "id": 636,
+    "base": "progress",
+    "past": "progressed",
+    "participle": "progressed",
+    "third": "progresses",
+    "ing": "progressing"
+  },
+  {
+    "id": 637,
+    "base": "prohibit",
+    "past": "prohibited",
+    "participle": "prohibited",
+    "third": "prohibits",
+    "ing": "prohibiting"
+  },
+  {
+    "id": 638,
+    "base": "promise",
+    "past": "promised",
+    "participle": "promised",
+    "third": "promises",
+    "ing": "promising"
+  },
+  {
+    "id": 639,
+    "base": "propose",
+    "past": "proposed",
+    "participle": "proposed",
+    "third": "proposes",
+    "ing": "proposing"
+  },
+  {
+    "id": 640,
+    "base": "prosecute",
+    "past": "prosecuted",
+    "participle": "prosecuted",
+    "third": "prosecutes",
+    "ing": "prosecuting"
+  },
+  {
+    "id": 641,
+    "base": "protect",
+    "past": "protected",
+    "participle": "protected",
+    "third": "protects",
+    "ing": "protecting"
+  },
+  {
+    "id": 642,
+    "base": "prove",
+    "past": "proved",
+    "participle": "proved",
+    "third": "proves",
+    "ing": "proving"
+  },
+  {
+    "id": 643,
+    "base": "provide",
+    "past": "provided",
+    "participle": "provided",
+    "third": "provides",
+    "ing": "providing"
+  },
+  {
+    "id": 644,
+    "base": "pull",
+    "past": "pulled",
+    "participle": "pulled",
+    "third": "pulls",
+    "ing": "pulling"
+  },
+  {
+    "id": 645,
+    "base": "punish",
+    "past": "punished",
+    "participle": "punished",
+    "third": "punishes",
+    "ing": "punishing"
+  },
+  {
+    "id": 646,
+    "base": "purify",
+    "past": "purified",
+    "participle": "purified",
+    "third": "purifies",
+    "ing": "purifying"
+  },
+  {
+    "id": 647,
+    "base": "push",
+    "past": "pushed",
+    "participle": "pushed",
+    "third": "pushes",
+    "ing": "pushing"
+  },
+  {
+    "id": 648,
+    "base": "put",
+    "past": "put",
+    "participle": "put",
+    "third": "puts",
+    "ing": "putting"
+  },
+  {
+    "id": 649,
+    "base": "qualify",
+    "past": "qualified",
+    "participle": "qualified",
+    "third": "qualifies",
+    "ing": "qualifying"
+  },
+  {
+    "id": 650,
+    "base": "quarrel",
+    "past": "quarrelled",
+    "participle": "quarrelled",
+    "third": "quarrels",
+    "ing": "quarrelling"
+  },
+  {
+    "id": 651,
+    "base": "question",
+    "past": "questioned",
+    "participle": "questioned",
+    "third": "questions",
+    "ing": "questioning"
+  },
+  {
+    "id": 652,
+    "base": "quit",
+    "past": "quit",
+    "participle": "quit",
+    "third": "quits",
+    "ing": "quitting"
+  },
+  {
+    "id": 653,
+    "base": "race",
+    "past": "raced",
+    "participle": "raced",
+    "third": "races",
+    "ing": "racing"
+  },
+  {
+    "id": 654,
+    "base": "rain",
+    "past": "rained",
+    "participle": "rained",
+    "third": "rains",
+    "ing": "raining"
+  },
+  {
+    "id": 655,
+    "base": "rattle",
+    "past": "rattled",
+    "participle": "rattled",
+    "third": "rattles",
+    "ing": "rattling"
+  },
+  {
+    "id": 656,
+    "base": "reach",
+    "past": "reached",
+    "participle": "reached",
+    "third": "reaches",
+    "ing": "reaching"
+  },
+  {
+    "id": 657,
+    "base": "read",
+    "past": "read",
+    "participle": "read",
+    "third": "reads",
+    "ing": "reading"
+  },
+  {
+    "id": 658,
+    "base": "realize",
+    "past": "realized",
+    "participle": "realized",
+    "third": "realizes",
+    "ing": "realizing"
+  },
+  {
+    "id": 659,
+    "base": "rebuild",
+    "past": "rebuilt",
+    "participle": "rebuilt",
+    "third": "rebuilds",
+    "ing": "rebuilding"
+  },
+  {
+    "id": 660,
+    "base": "recall",
+    "past": "recalled",
+    "participle": "recalled",
+    "third": "recalls",
+    "ing": "recalling"
+  },
+  {
+    "id": 661,
+    "base": "recast",
+    "past": "recast",
+    "participle": "recast",
+    "third": "recasts",
+    "ing": "recasting"
+  },
+  {
+    "id": 662,
+    "base": "receive",
+    "past": "received",
+    "participle": "received",
+    "third": "receives",
+    "ing": "receiving"
+  },
+  {
+    "id": 663,
+    "base": "recite",
+    "past": "recited",
+    "participle": "recited",
+    "third": "recites",
+    "ing": "reciting"
+  },
+  {
+    "id": 664,
+    "base": "recognize",
+    "past": "recognized",
+    "participle": "recognized",
+    "third": "recognizes",
+    "ing": "recognizing"
+  },
+  {
+    "id": 665,
+    "base": "recollect",
+    "past": "recollected",
+    "participle": "recollected",
+    "third": "recollects",
+    "ing": "recollecting"
+  },
+  {
+    "id": 666,
+    "base": "recur",
+    "past": "recurred",
+    "participle": "recurred",
+    "third": "recurs",
+    "ing": "recurring"
+  },
+  {
+    "id": 667,
+    "base": "redo",
+    "past": "redid",
+    "participle": "redone",
+    "third": "redoes",
+    "ing": "redoing"
+  },
+  {
+    "id": 668,
+    "base": "reduce",
+    "past": "reduced",
+    "participle": "reduced",
+    "third": "reduces",
+    "ing": "reducing"
+  },
+  {
+    "id": 669,
+    "base": "refer",
+    "past": "referred",
+    "participle": "referred",
+    "third": "refers",
+    "ing": "referring"
+  },
+  {
+    "id": 670,
+    "base": "reflect",
+    "past": "reflected",
+    "participle": "reflected",
+    "third": "reflects",
+    "ing": "reflecting"
+  },
+  {
+    "id": 671,
+    "base": "refuse",
+    "past": "refused",
+    "participle": "refused",
+    "third": "refuses",
+    "ing": "refusing"
+  },
+  {
+    "id": 672,
+    "base": "regard",
+    "past": "regarded",
+    "participle": "regarded",
+    "third": "regards",
+    "ing": "regarding"
+  },
+  {
+    "id": 673,
+    "base": "regret",
+    "past": "regretted",
+    "participle": "regretted",
+    "third": "regrets",
+    "ing": "regretting"
+  },
+  {
+    "id": 674,
+    "base": "relate",
+    "past": "related",
+    "participle": "related",
+    "third": "relates",
+    "ing": "relating"
+  },
+  {
+    "id": 675,
+    "base": "relax",
+    "past": "relaxed",
+    "participle": "relaxed",
+    "third": "relaxes",
+    "ing": "relaxing"
+  },
+  {
+    "id": 676,
+    "base": "rely",
+    "past": "relied",
+    "participle": "relied",
+    "third": "relies",
+    "ing": "relying"
+  },
+  {
+    "id": 677,
+    "base": "remain",
+    "past": "remained",
+    "participle": "remained",
+    "third": "remains",
+    "ing": "remaining"
+  },
+  {
+    "id": 678,
+    "base": "remake",
+    "past": "remade",
+    "participle": "remade",
+    "third": "remakes",
+    "ing": "remaking"
+  },
+  {
+    "id": 679,
+    "base": "remove",
+    "past": "removed",
+    "participle": "removed",
+    "third": "removes",
+    "ing": "removing"
+  },
+  {
+    "id": 680,
+    "base": "rend",
+    "past": "rent",
+    "participle": "rent",
+    "third": "rends",
+    "ing": "rending"
+  },
+  {
+    "id": 681,
+    "base": "renew",
+    "past": "renewed",
+    "participle": "renewed",
+    "third": "renews",
+    "ing": "renewing"
+  },
+  {
+    "id": 682,
+    "base": "renounce",
+    "past": "renounced",
+    "participle": "renounced",
+    "third": "renounces",
+    "ing": "renouncing"
+  },
+  {
+    "id": 683,
+    "base": "repair",
+    "past": "repaired",
+    "participle": "repaired",
+    "third": "repairs",
+    "ing": "repairing"
+  },
+  {
+    "id": 684,
+    "base": "repeat",
+    "past": "repeated",
+    "participle": "repeated",
+    "third": "repeats",
+    "ing": "repeating"
+  },
+  {
+    "id": 685,
+    "base": "replace",
+    "past": "replaced",
+    "participle": "replaced",
+    "third": "replaces",
+    "ing": "replacing"
+  },
+  {
+    "id": 686,
+    "base": "reply",
+    "past": "replied",
+    "participle": "replied",
+    "third": "replies",
+    "ing": "replying"
+  },
+  {
+    "id": 687,
+    "base": "report",
+    "past": "reported",
+    "participle": "reported",
+    "third": "reports",
+    "ing": "reporting"
+  },
+  {
+    "id": 688,
+    "base": "request",
+    "past": "requested",
+    "participle": "requested",
+    "third": "requests",
+    "ing": "requesting"
+  },
+  {
+    "id": 689,
+    "base": "resell",
+    "past": "resold",
+    "participle": "resold",
+    "third": "resells",
+    "ing": "reselling"
+  },
+  {
+    "id": 690,
+    "base": "resemble",
+    "past": "resembled",
+    "participle": "resembled",
+    "third": "resembles",
+    "ing": "resembling"
+  },
+  {
+    "id": 691,
+    "base": "reset",
+    "past": "reset",
+    "participle": "reset",
+    "third": "resets",
+    "ing": "resetting"
+  },
+  {
+    "id": 692,
+    "base": "resist",
+    "past": "resisted",
+    "participle": "resisted",
+    "third": "resists",
+    "ing": "resisting"
+  },
+  {
+    "id": 693,
+    "base": "resolve",
+    "past": "resolved",
+    "participle": "resolved",
+    "third": "resolves",
+    "ing": "resolving"
+  },
+  {
+    "id": 694,
+    "base": "respect",
+    "past": "respected",
+    "participle": "respected",
+    "third": "respects",
+    "ing": "respecting"
+  },
+  {
+    "id": 695,
+    "base": "rest",
+    "past": "rested",
+    "participle": "rested",
+    "third": "rests",
+    "ing": "resting"
+  },
+  {
+    "id": 696,
+    "base": "restrain",
+    "past": "restrained",
+    "participle": "restrained",
+    "third": "restrains",
+    "ing": "restraining"
+  },
+  {
+    "id": 697,
+    "base": "retain",
+    "past": "retained",
+    "participle": "retained",
+    "third": "retains",
+    "ing": "retaining"
+  },
+  {
+    "id": 698,
+    "base": "retch",
+    "past": "retched",
+    "participle": "retched",
+    "third": "retches",
+    "ing": "retching"
+  },
+  {
+    "id": 699,
+    "base": "retire",
+    "past": "retired",
+    "participle": "retired",
+    "third": "retires",
+    "ing": "retiring"
+  },
+  {
+    "id": 700,
+    "base": "return",
+    "past": "returned",
+    "participle": "returned",
+    "third": "returns",
+    "ing": "returning"
+  },
+  {
+    "id": 701,
+    "base": "reuse",
+    "past": "reused",
+    "participle": "reused",
+    "third": "reuses",
+    "ing": "reusing"
+  },
+  {
+    "id": 702,
+    "base": "review",
+    "past": "reviewed",
+    "participle": "reviewed",
+    "third": "reviews",
+    "ing": "reviewing"
+  },
+  {
+    "id": 703,
+    "base": "rewind",
+    "past": "rewound",
+    "participle": "rewound",
+    "third": "rewinds",
+    "ing": "rewinding"
+  },
+  {
+    "id": 704,
+    "base": "rid",
+    "past": "rid",
+    "participle": "rid",
+    "third": "rids",
+    "ing": "ridding"
+  },
+  {
+    "id": 705,
+    "base": "ride",
+    "past": "rode",
+    "participle": "ridden",
+    "third": "rides",
+    "ing": "riding"
+  },
+  {
+    "id": 706,
+    "base": "ring",
+    "past": "rang",
+    "participle": "rung",
+    "third": "rings",
+    "ing": "ringing"
+  },
+  {
+    "id": 707,
+    "base": "rise",
+    "past": "rose",
+    "participle": "risen",
+    "third": "rises",
+    "ing": "rising"
+  },
+  {
+    "id": 708,
+    "base": "roar",
+    "past": "roared",
+    "participle": "roared",
+    "third": "roars",
+    "ing": "roaring"
+  },
+  {
+    "id": 709,
+    "base": "rob",
+    "past": "robbed",
+    "participle": "robbed",
+    "third": "robs",
+    "ing": "robbing"
+  },
+  {
+    "id": 710,
+    "base": "roll",
+    "past": "rolled",
+    "participle": "rolled",
+    "third": "rolls",
+    "ing": "rolling"
+  },
+  {
+    "id": 711,
+    "base": "rot",
+    "past": "rotted",
+    "participle": "rotted",
+    "third": "rots",
+    "ing": "rotting"
+  },
+  {
+    "id": 712,
+    "base": "rub",
+    "past": "rubbed",
+    "participle": "rubbed",
+    "third": "rubs",
+    "ing": "rubbing"
+  },
+  {
+    "id": 713,
+    "base": "rule",
+    "past": "ruled",
+    "participle": "ruled",
+    "third": "rules",
+    "ing": "ruling"
+  },
+  {
+    "id": 714,
+    "base": "run",
+    "past": "ran",
+    "participle": "run",
+    "third": "runs",
+    "ing": "running"
+  },
+  {
+    "id": 715,
+    "base": "rush",
+    "past": "rushed",
+    "participle": "rushed",
+    "third": "rushes",
+    "ing": "rushing"
+  },
+  {
+    "id": 716,
+    "base": "sabotage",
+    "past": "sabotaged",
+    "participle": "sabotaged",
+    "third": "sabotages",
+    "ing": "sabotaging"
+  },
+  {
+    "id": 717,
+    "base": "sack",
+    "past": "sacked",
+    "participle": "sacked",
+    "third": "sacks",
+    "ing": "sacking"
+  },
+  {
+    "id": 718,
+    "base": "sacrifice",
+    "past": "sacrificed",
+    "participle": "sacrificed",
+    "third": "sacrifices",
+    "ing": "sacrificing"
+  },
+  {
+    "id": 719,
+    "base": "sadden",
+    "past": "saddened",
+    "participle": "saddened",
+    "third": "saddens",
+    "ing": "saddening"
+  },
+  {
+    "id": 720,
+    "base": "saddle",
+    "past": "saddled",
+    "participle": "saddled",
+    "third": "saddles",
+    "ing": "saddling"
+  },
+  {
+    "id": 721,
+    "base": "sag",
+    "past": "sagged",
+    "participle": "sagged",
+    "third": "sags",
+    "ing": "sagging"
+  },
+  {
+    "id": 722,
+    "base": "sail",
+    "past": "sailed",
+    "participle": "sailed",
+    "third": "sails",
+    "ing": "sailing"
+  },
+  {
+    "id": 723,
+    "base": "sally",
+    "past": "sallied",
+    "participle": "sallied",
+    "third": "sallies",
+    "ing": "sallying"
+  },
+  {
+    "id": 724,
+    "base": "salute",
+    "past": "saluted",
+    "participle": "saluted",
+    "third": "salutes",
+    "ing": "saluting"
+  },
+  {
+    "id": 725,
+    "base": "salvage",
+    "past": "salvaged",
+    "participle": "salvaged",
+    "third": "salvages",
+    "ing": "salvaging"
+  },
+  {
+    "id": 726,
+    "base": "salve",
+    "past": "salved",
+    "participle": "salved",
+    "third": "salves",
+    "ing": "salving"
+  },
+  {
+    "id": 727,
+    "base": "sample",
+    "past": "sampled",
+    "participle": "sampled",
+    "third": "samples",
+    "ing": "sampling"
+  },
+  {
+    "id": 728,
+    "base": "sanctify",
+    "past": "sanctified",
+    "participle": "sanctified",
+    "third": "sanctifies",
+    "ing": "sanctifying"
+  },
+  {
+    "id": 729,
+    "base": "sanction",
+    "past": "sanctioned",
+    "participle": "sanctioned",
+    "third": "sanctions",
+    "ing": "sanctioning"
+  },
+  {
+    "id": 730,
+    "base": "sap",
+    "past": "sapped",
+    "participle": "sapped",
+    "third": "saps",
+    "ing": "sapping"
+  },
+  {
+    "id": 731,
+    "base": "saponify",
+    "past": "saponified",
+    "participle": "saponified",
+    "third": "saponifies",
+    "ing": "saponifying"
+  },
+  {
+    "id": 732,
+    "base": "sash",
+    "past": "sashed",
+    "participle": "sashed",
+    "third": "sashes",
+    "ing": "sashing"
+  },
+  {
+    "id": 733,
+    "base": "sashay",
+    "past": "sashayed",
+    "participle": "sashayed",
+    "third": "sashays",
+    "ing": "sashaying"
+  },
+  {
+    "id": 734,
+    "base": "sass",
+    "past": "sassed",
+    "participle": "sassed",
+    "third": "sasses",
+    "ing": "sassing"
+  },
+  {
+    "id": 735,
+    "base": "sate",
+    "past": "sated",
+    "participle": "sated",
+    "third": "sates",
+    "ing": "sating"
+  },
+  {
+    "id": 736,
+    "base": "satiate",
+    "past": "satiated",
+    "participle": "satiated",
+    "third": "satiates",
+    "ing": "satiating"
+  },
+  {
+    "id": 737,
+    "base": "satirise",
+    "past": "satirised",
+    "participle": "satirised",
+    "third": "satirises",
+    "ing": "satirising"
+  },
+  {
+    "id": 738,
+    "base": "satisfy",
+    "past": "satisfied",
+    "participle": "satisfied",
+    "third": "satisfies",
+    "ing": "satisfying"
+  },
+  {
+    "id": 739,
+    "base": "saturate",
+    "past": "saturated",
+    "participle": "saturated",
+    "third": "saturates",
+    "ing": "saturating"
+  },
+  {
+    "id": 740,
+    "base": "saunter",
+    "past": "sauntered",
+    "participle": "sauntered",
+    "third": "saunters",
+    "ing": "sauntering"
+  },
+  {
+    "id": 741,
+    "base": "save",
+    "past": "saved",
+    "participle": "saved",
+    "third": "saves",
+    "ing": "saving"
+  },
+  {
+    "id": 742,
+    "base": "savor",
+    "past": "savored",
+    "participle": "savored",
+    "third": "savors",
+    "ing": "savoring"
+  },
+  {
+    "id": 743,
+    "base": "savvy",
+    "past": "savvied",
+    "participle": "savvied",
+    "third": "savvies",
+    "ing": "savvying"
+  },
+  {
+    "id": 744,
+    "base": "saw",
+    "past": "sawed",
+    "participle": "sawn",
+    "third": "saws",
+    "ing": "sawing"
+  },
+  {
+    "id": 745,
+    "base": "say",
+    "past": "said",
+    "participle": "said",
+    "third": "says",
+    "ing": "saying"
+  },
+  {
+    "id": 746,
+    "base": "scab",
+    "past": "scabbed",
+    "participle": "scabbed",
+    "third": "scabs",
+    "ing": "scabbing"
+  },
+  {
+    "id": 747,
+    "base": "scabble",
+    "past": "scabbled",
+    "participle": "scabbled",
+    "third": "scabbles",
+    "ing": "scabbling"
+  },
+  {
+    "id": 748,
+    "base": "scald",
+    "past": "scalded",
+    "participle": "scalded",
+    "third": "scalds",
+    "ing": "scalding"
+  },
+  {
+    "id": 749,
+    "base": "scale",
+    "past": "scaled",
+    "participle": "scaled",
+    "third": "scales",
+    "ing": "scaling"
+  },
+  {
+    "id": 750,
+    "base": "scam",
+    "past": "scammed",
+    "participle": "scammed",
+    "third": "scams",
+    "ing": "scamming"
+  },
+  {
+    "id": 751,
+    "base": "scan",
+    "past": "scanned",
+    "participle": "scanned",
+    "third": "scans",
+    "ing": "scanning"
+  },
+  {
+    "id": 752,
+    "base": "scant",
+    "past": "scanted",
+    "participle": "scanted",
+    "third": "scants",
+    "ing": "scanting"
+  },
+  {
+    "id": 753,
+    "base": "scar",
+    "past": "scarred",
+    "participle": "scarred",
+    "third": "scars",
+    "ing": "scarring"
+  },
+  {
+    "id": 754,
+    "base": "scare",
+    "past": "scared",
+    "participle": "scared",
+    "third": "scares",
+    "ing": "scaring"
+  },
+  {
+    "id": 755,
+    "base": "scarify",
+    "past": "scarified",
+    "participle": "scarified",
+    "third": "scarifies",
+    "ing": "scarifying"
+  },
+  {
+    "id": 756,
+    "base": "scarp",
+    "past": "scarped",
+    "participle": "scarped",
+    "third": "scarps",
+    "ing": "scarping"
+  },
+  {
+    "id": 757,
+    "base": "scat",
+    "past": "scatted",
+    "participle": "scatted",
+    "third": "scats",
+    "ing": "scatting"
+  },
+  {
+    "id": 758,
+    "base": "scatter",
+    "past": "scattered",
+    "participle": "scattered",
+    "third": "scatters",
+    "ing": "scattering"
+  },
+  {
+    "id": 759,
+    "base": "scold",
+    "past": "scolded",
+    "participle": "scolded",
+    "third": "scolds",
+    "ing": "scolding"
+  },
+  {
+    "id": 760,
+    "base": "scorch",
+    "past": "scorched",
+    "participle": "scorched",
+    "third": "scorches",
+    "ing": "scorching"
+  },
+  {
+    "id": 761,
+    "base": "scowl",
+    "past": "scowled",
+    "participle": "scowled",
+    "third": "scowls",
+    "ing": "scowling"
+  },
+  {
+    "id": 762,
+    "base": "scrawl",
+    "past": "scrawled",
+    "participle": "scrawled",
+    "third": "scrawls",
+    "ing": "scrawling"
+  },
+  {
+    "id": 763,
+    "base": "scream",
+    "past": "screamed",
+    "participle": "screamed",
+    "third": "screams",
+    "ing": "screaming"
+  },
+  {
+    "id": 764,
+    "base": "screw",
+    "past": "screwed",
+    "participle": "screwed",
+    "third": "screws",
+    "ing": "screwing"
+  },
+  {
+    "id": 765,
+    "base": "scrub",
+    "past": "scrubbed",
+    "participle": "scrubbed",
+    "third": "scrubs",
+    "ing": "scrubbing"
+  },
+  {
+    "id": 766,
+    "base": "search",
+    "past": "searched",
+    "participle": "searched",
+    "third": "searches",
+    "ing": "searching"
+  },
+  {
+    "id": 767,
+    "base": "seat",
+    "past": "seated",
+    "participle": "seated",
+    "third": "seats",
+    "ing": "seating"
+  },
+  {
+    "id": 768,
+    "base": "secure",
+    "past": "secured",
+    "participle": "secured",
+    "third": "secures",
+    "ing": "securing"
+  },
+  {
+    "id": 769,
+    "base": "see",
+    "past": "saw",
+    "participle": "seen",
+    "third": "sees",
+    "ing": "seeing"
+  },
+  {
+    "id": 770,
+    "base": "seek",
+    "past": "sought",
+    "participle": "sought",
+    "third": "seeks",
+    "ing": "seeking"
+  },
+  {
+    "id": 771,
+    "base": "seem",
+    "past": "seemed",
+    "participle": "seemed",
+    "third": "seems",
+    "ing": "seeming"
+  },
+  {
+    "id": 772,
+    "base": "seize",
+    "past": "seized",
+    "participle": "seized",
+    "third": "seizes",
+    "ing": "seizing"
+  },
+  {
+    "id": 773,
+    "base": "select",
+    "past": "selected",
+    "participle": "selected",
+    "third": "selects",
+    "ing": "selecting"
+  },
+  {
+    "id": 774,
+    "base": "sell",
+    "past": "sold",
+    "participle": "sold",
+    "third": "sells",
+    "ing": "selling"
+  },
+  {
+    "id": 775,
+    "base": "send",
+    "past": "sent",
+    "participle": "sent",
+    "third": "sends",
+    "ing": "sending"
+  },
+  {
+    "id": 776,
+    "base": "sentence",
+    "past": "sentenced",
+    "participle": "sentenced",
+    "third": "sentences",
+    "ing": "sentencing"
+  },
+  {
+    "id": 777,
+    "base": "separate",
+    "past": "separated",
+    "participle": "separated",
+    "third": "separates",
+    "ing": "separating"
+  },
+  {
+    "id": 778,
+    "base": "set",
+    "past": "set",
+    "participle": "set",
+    "third": "sets",
+    "ing": "setting"
+  },
+  {
+    "id": 779,
+    "base": "sever",
+    "past": "severed",
+    "participle": "severed",
+    "third": "severs",
+    "ing": "severing"
+  },
+  {
+    "id": 780,
+    "base": "sew",
+    "past": "sewed",
+    "participle": "sewn",
+    "third": "sews",
+    "ing": "sewing"
+  },
+  {
+    "id": 781,
+    "base": "shake",
+    "past": "shook",
+    "participle": "shaken",
+    "third": "shakes",
+    "ing": "shaking"
+  },
+  {
+    "id": 782,
+    "base": "shape",
+    "past": "shaped",
+    "participle": "shaped",
+    "third": "shapes",
+    "ing": "shaping"
+  },
+  {
+    "id": 783,
+    "base": "share",
+    "past": "shared",
+    "participle": "shared",
+    "third": "shares",
+    "ing": "sharing"
+  },
+  {
+    "id": 784,
+    "base": "shatter",
+    "past": "shattered",
+    "participle": "shattered",
+    "third": "shatters",
+    "ing": "shattering"
+  },
+  {
+    "id": 785,
+    "base": "shave",
+    "past": "shove",
+    "participle": "shaven",
+    "third": "shaves",
+    "ing": "shaving"
+  },
+  {
+    "id": 786,
+    "base": "shear",
+    "past": "shore",
+    "participle": "shorn",
+    "third": "shears",
+    "ing": "shearing"
+  },
+  {
+    "id": 787,
+    "base": "shed",
+    "past": "shed",
+    "participle": "shed",
+    "third": "sheds",
+    "ing": "shedding"
+  },
+  {
+    "id": 788,
+    "base": "shine",
+    "past": "shone",
+    "participle": "shone",
+    "third": "shines",
+    "ing": "shining"
+  },
+  {
+    "id": 789,
+    "base": "shirk",
+    "past": "shirked",
+    "participle": "shirked",
+    "third": "shirks",
+    "ing": "shirking"
+  },
+  {
+    "id": 790,
+    "base": "shit",
+    "past": "shit",
+    "participle": "shit",
+    "third": "shits",
+    "ing": "shitting"
+  },
+  {
+    "id": 791,
+    "base": "shiver",
+    "past": "shivered",
+    "participle": "shivered",
+    "third": "shivers",
+    "ing": "shivering"
+  },
+  {
+    "id": 792,
+    "base": "shock",
+    "past": "shocked",
+    "participle": "shocked",
+    "third": "shocks",
+    "ing": "shocking"
+  },
+  {
+    "id": 793,
+    "base": "shoe",
+    "past": "shod",
+    "participle": "shod",
+    "third": "shoes",
+    "ing": "shoeing"
+  },
+  {
+    "id": 794,
+    "base": "shoot",
+    "past": "shot",
+    "participle": "shot",
+    "third": "shoots",
+    "ing": "shooting"
+  },
+  {
+    "id": 795,
+    "base": "shorten",
+    "past": "shortened",
+    "participle": "shortened",
+    "third": "shortens",
+    "ing": "shortening"
+  },
+  {
+    "id": 796,
+    "base": "shout",
+    "past": "shouted",
+    "participle": "shouted",
+    "third": "shouts",
+    "ing": "shouting"
+  },
+  {
+    "id": 797,
+    "base": "show",
+    "past": "showed",
+    "participle": "shown",
+    "third": "shows",
+    "ing": "showing"
+  },
+  {
+    "id": 798,
+    "base": "shrink",
+    "past": "shrank",
+    "participle": "shrunk",
+    "third": "shrinks",
+    "ing": "shrinking"
+  },
+  {
+    "id": 799,
+    "base": "shun",
+    "past": "shunned",
+    "participle": "shunned",
+    "third": "shuns",
+    "ing": "shunning"
+  },
+  {
+    "id": 800,
+    "base": "shut",
+    "past": "shut",
+    "participle": "shut",
+    "third": "shuts",
+    "ing": "shutting"
+  },
+  {
+    "id": 801,
+    "base": "sight",
+    "past": "sighted",
+    "participle": "sighted",
+    "third": "sights",
+    "ing": "sighting"
+  },
+  {
+    "id": 802,
+    "base": "signal",
+    "past": "signalled",
+    "participle": "signalled",
+    "third": "signals",
+    "ing": "signalling"
+  },
+  {
+    "id": 803,
+    "base": "signify",
+    "past": "signified",
+    "participle": "signified",
+    "third": "signifies",
+    "ing": "signifying"
+  },
+  {
+    "id": 804,
+    "base": "sing",
+    "past": "sang",
+    "participle": "sung",
+    "third": "sings",
+    "ing": "singing"
+  },
+  {
+    "id": 805,
+    "base": "sink",
+    "past": "sank",
+    "participle": "sunk",
+    "third": "sinks",
+    "ing": "sinking"
+  },
+  {
+    "id": 806,
+    "base": "sip",
+    "past": "sipped",
+    "participle": "sipped",
+    "third": "sips",
+    "ing": "sipping"
+  },
+  {
+    "id": 807,
+    "base": "sit",
+    "past": "sat",
+    "participle": "sat",
+    "third": "sits",
+    "ing": "sitting"
+  },
+  {
+    "id": 808,
+    "base": "ski",
+    "past": "skied",
+    "participle": "skied",
+    "third": "skis",
+    "ing": "skiing"
+  },
+  {
+    "id": 809,
+    "base": "skid",
+    "past": "skidded",
+    "participle": "skidded",
+    "third": "skids",
+    "ing": "skidding"
+  },
+  {
+    "id": 810,
+    "base": "slam",
+    "past": "slammed",
+    "participle": "slammed",
+    "third": "slams",
+    "ing": "slamming"
+  },
+  {
+    "id": 811,
+    "base": "slay",
+    "past": "slew",
+    "participle": "slain",
+    "third": "slays",
+    "ing": "slaying"
+  },
+  {
+    "id": 812,
+    "base": "sleep",
+    "past": "slept",
+    "participle": "slept",
+    "third": "sleeps",
+    "ing": "sleeping"
+  },
+  {
+    "id": 813,
+    "base": "slide",
+    "past": "slid",
+    "participle": "slid/slide",
+    "third": "slides",
+    "ing": "sliding"
+  },
+  {
+    "id": 814,
+    "base": "slim",
+    "past": "slimmed",
+    "participle": "slimmed",
+    "third": "slims",
+    "ing": "slimming"
+  },
+  {
+    "id": 815,
+    "base": "sling",
+    "past": "slung",
+    "participle": "slung",
+    "third": "slings",
+    "ing": "slinging"
+  },
+  {
+    "id": 816,
+    "base": "slink",
+    "past": "slunk",
+    "participle": "slunk",
+    "third": "slinks",
+    "ing": "slinking"
+  },
+  {
+    "id": 817,
+    "base": "slip",
+    "past": "slipped",
+    "participle": "slipped",
+    "third": "slips",
+    "ing": "slipping"
+  },
+  {
+    "id": 818,
+    "base": "slit",
+    "past": "slit",
+    "participle": "slit",
+    "third": "slits",
+    "ing": "slitting"
+  },
+  {
+    "id": 819,
+    "base": "smash",
+    "past": "smashed",
+    "participle": "smashed",
+    "third": "smashes",
+    "ing": "smashing"
+  },
+  {
+    "id": 820,
+    "base": "smell",
+    "past": "smelt",
+    "participle": "smelt",
+    "third": "smells",
+    "ing": "smelling"
+  },
+  {
+    "id": 821,
+    "base": "smile",
+    "past": "smiled",
+    "participle": "smiled",
+    "third": "smiles",
+    "ing": "smiling"
+  },
+  {
+    "id": 822,
+    "base": "smite",
+    "past": "smote",
+    "participle": "smitten",
+    "third": "smites",
+    "ing": "smiting"
+  },
+  {
+    "id": 823,
+    "base": "smooth",
+    "past": "smoothed",
+    "participle": "smoothed",
+    "third": "smoothes",
+    "ing": "smoothing"
+  },
+  {
+    "id": 824,
+    "base": "smother",
+    "past": "smothered",
+    "participle": "smothered",
+    "third": "smothers",
+    "ing": "smothering"
+  },
+  {
+    "id": 825,
+    "base": "snap",
+    "past": "snapped",
+    "participle": "snapped",
+    "third": "snaps",
+    "ing": "snapping"
+  },
+  {
+    "id": 826,
+    "base": "snatch",
+    "past": "snatched",
+    "participle": "snatched",
+    "third": "snatches",
+    "ing": "snatching"
+  },
+  {
+    "id": 827,
+    "base": "sneak",
+    "past": "snuck",
+    "participle": "snuck",
+    "third": "sneaks",
+    "ing": "sneaking"
+  },
+  {
+    "id": 828,
+    "base": "sneeze",
+    "past": "sneezed",
+    "participle": "sneezed",
+    "third": "sneezes",
+    "ing": "sneezing"
+  },
+  {
+    "id": 829,
+    "base": "sniff",
+    "past": "sniffed",
+    "participle": "sniffed",
+    "third": "sniffs",
+    "ing": "sniffing"
+  },
+  {
+    "id": 830,
+    "base": "soar",
+    "past": "soared",
+    "participle": "soared",
+    "third": "soars",
+    "ing": "soaring"
+  },
+  {
+    "id": 831,
+    "base": "sob",
+    "past": "sobbed",
+    "participle": "sobbed",
+    "third": "sobs",
+    "ing": "sobbing"
+  },
+  {
+    "id": 832,
+    "base": "solicit",
+    "past": "solicited",
+    "participle": "solicited",
+    "third": "solicits",
+    "ing": "soliciting"
+  },
+  {
+    "id": 833,
+    "base": "solve",
+    "past": "solved",
+    "participle": "solved",
+    "third": "solves",
+    "ing": "solving"
+  },
+  {
+    "id": 834,
+    "base": "soothe",
+    "past": "soothed",
+    "participle": "soothed",
+    "third": "soothes",
+    "ing": "soothing"
+  },
+  {
+    "id": 835,
+    "base": "sort",
+    "past": "sorted",
+    "participle": "sorted",
+    "third": "sorts",
+    "ing": "sorting"
+  },
+  {
+    "id": 836,
+    "base": "sow",
+    "past": "sowed",
+    "participle": "sowed",
+    "third": "sows",
+    "ing": "sowing"
+  },
+  {
+    "id": 837,
+    "base": "sparkle",
+    "past": "sparkled",
+    "participle": "sparkled",
+    "third": "sparkles",
+    "ing": "sparkling"
+  },
+  {
+    "id": 838,
+    "base": "speak",
+    "past": "spoke",
+    "participle": "spoken",
+    "third": "speaks",
+    "ing": "speaking"
+  },
+  {
+    "id": 839,
+    "base": "speed",
+    "past": "sped",
+    "participle": "sped",
+    "third": "speeds",
+    "ing": "speeding"
+  },
+  {
+    "id": 840,
+    "base": "spell",
+    "past": "spelt",
+    "participle": "spelt",
+    "third": "spells",
+    "ing": "spelling"
+  },
+  {
+    "id": 841,
+    "base": "spend",
+    "past": "spent",
+    "participle": "spent",
+    "third": "spends",
+    "ing": "spending"
+  },
+  {
+    "id": 842,
+    "base": "spill",
+    "past": "spilt",
+    "participle": "spilt",
+    "third": "spills",
+    "ing": "spilling"
+  },
+  {
+    "id": 843,
+    "base": "spin",
+    "past": "span/spun",
+    "participle": "spun",
+    "third": "spins",
+    "ing": "spinning"
+  },
+  {
+    "id": 844,
+    "base": "spit",
+    "past": "spat/spit",
+    "participle": "spat/spit",
+    "third": "spits",
+    "ing": "spitting"
+  },
+  {
+    "id": 845,
+    "base": "split",
+    "past": "split",
+    "participle": "split",
+    "third": "splits",
+    "ing": "splitting"
+  },
+  {
+    "id": 846,
+    "base": "spoil",
+    "past": "spoilt",
+    "participle": "spoilt",
+    "third": "spoils",
+    "ing": "spoiling"
+  },
+  {
+    "id": 847,
+    "base": "spray",
+    "past": "sprayed",
+    "participle": "sprayed",
+    "third": "sprays",
+    "ing": "spraying"
+  },
+  {
+    "id": 848,
+    "base": "spread",
+    "past": "spread",
+    "participle": "spread",
+    "third": "spreads",
+    "ing": "spreading"
+  },
+  {
+    "id": 849,
+    "base": "spring",
+    "past": "sprang",
+    "participle": "sprung",
+    "third": "springs",
+    "ing": "springing"
+  },
+  {
+    "id": 850,
+    "base": "sprout",
+    "past": "sprouted",
+    "participle": "sprouted",
+    "third": "sprouts",
+    "ing": "sprouting"
+  },
+  {
+    "id": 851,
+    "base": "squeeze",
+    "past": "squeezed",
+    "participle": "squeezed",
+    "third": "squeezes",
+    "ing": "squeezing"
+  },
+  {
+    "id": 852,
+    "base": "stand",
+    "past": "stood",
+    "participle": "stood",
+    "third": "stands",
+    "ing": "standing"
+  },
+  {
+    "id": 853,
+    "base": "stare",
+    "past": "stared",
+    "participle": "stared",
+    "third": "stares",
+    "ing": "staring"
+  },
+  {
+    "id": 854,
+    "base": "start",
+    "past": "started",
+    "participle": "started",
+    "third": "starts",
+    "ing": "starting"
+  },
+  {
+    "id": 855,
+    "base": "state",
+    "past": "stated",
+    "participle": "stated",
+    "third": "states",
+    "ing": "stating"
+  },
+  {
+    "id": 856,
+    "base": "",
+    "past": "",
+    "participle": "",
+    "third": "",
+    "ing": ""
+  },
+  {
+    "id": 857,
+    "base": "stay",
+    "past": "stayed",
+    "participle": "stayed",
+    "third": "stays",
+    "ing": "staying"
+  },
+  {
+    "id": 858,
+    "base": "steal",
+    "past": "stole",
+    "participle": "stolen",
+    "third": "steals",
+    "ing": "stealing"
+  },
+  {
+    "id": 859,
+    "base": "steep",
+    "past": "steeped",
+    "participle": "steeped",
+    "third": "steeps",
+    "ing": "steeping"
+  },
+  {
+    "id": 860,
+    "base": "stem",
+    "past": "stemmed",
+    "participle": "stemmed",
+    "third": "stems",
+    "ing": "stemming"
+  },
+  {
+    "id": 861,
+    "base": "step",
+    "past": "stepped",
+    "participle": "stepped",
+    "third": "steps",
+    "ing": "stepping"
+  },
+  {
+    "id": 862,
+    "base": "sterilize",
+    "past": "sterilized",
+    "participle": "sterilized",
+    "third": "sterilizes",
+    "ing": "sterilizing"
+  },
+  {
+    "id": 863,
+    "base": "stick",
+    "past": "stuck",
+    "participle": "stuck",
+    "third": "sticks",
+    "ing": "sticking"
+  },
+  {
+    "id": 864,
+    "base": "stimulate",
+    "past": "stimulated",
+    "participle": "stimulated",
+    "third": "stimulates",
+    "ing": "stimulating"
+  },
+  {
+    "id": 865,
+    "base": "sting",
+    "past": "stung",
+    "participle": "stung",
+    "third": "stings",
+    "ing": "stinging"
+  },
+  {
+    "id": 866,
+    "base": "stink",
+    "past": "stank",
+    "participle": "stunk",
+    "third": "stinks",
+    "ing": "stinking"
+  },
+  {
+    "id": 867,
+    "base": "stir",
+    "past": "stirred",
+    "participle": "stirred",
+    "third": "stirs",
+    "ing": "stirring"
+  },
+  {
+    "id": 868,
+    "base": "stitch",
+    "past": "stitched",
+    "participle": "stitched",
+    "third": "stitches",
+    "ing": "stitching"
+  },
+  {
+    "id": 869,
+    "base": "stoop",
+    "past": "stooped",
+    "participle": "stooped",
+    "third": "stoops",
+    "ing": "stooping"
+  },
+  {
+    "id": 870,
+    "base": "stop",
+    "past": "stopped",
+    "participle": "stopped",
+    "third": "stops",
+    "ing": "stopping"
+  },
+  {
+    "id": 871,
+    "base": "store",
+    "past": "stored",
+    "participle": "stored",
+    "third": "stores",
+    "ing": "storing"
+  },
+  {
+    "id": 872,
+    "base": "strain",
+    "past": "strained",
+    "participle": "strained",
+    "third": "strains",
+    "ing": "straining"
+  },
+  {
+    "id": 873,
+    "base": "stray",
+    "past": "strayed",
+    "participle": "strayed",
+    "third": "strays",
+    "ing": "straying"
+  },
+  {
+    "id": 874,
+    "base": "stress",
+    "past": "stressed",
+    "participle": "stressed",
+    "third": "stresses",
+    "ing": "stressing"
+  },
+  {
+    "id": 875,
+    "base": "stretch",
+    "past": "stretched",
+    "participle": "stretched",
+    "third": "stretches",
+    "ing": "stretching"
+  },
+  {
+    "id": 876,
+    "base": "strew",
+    "past": "strewed",
+    "participle": "strewn",
+    "third": "strews",
+    "ing": "strewing"
+  },
+  {
+    "id": 877,
+    "base": "stride",
+    "past": "strode",
+    "participle": "stridden",
+    "third": "strides",
+    "ing": "striding"
+  },
+  {
+    "id": 878,
+    "base": "strike",
+    "past": "struck",
+    "participle": "struck/stricken",
+    "third": "strikes",
+    "ing": "striking"
+  },
+  {
+    "id": 879,
+    "base": "string",
+    "past": "strung",
+    "participle": "strung",
+    "third": "strings",
+    "ing": "stringing"
+  },
+  {
+    "id": 880,
+    "base": "strive",
+    "past": "strove",
+    "participle": "striven",
+    "third": "strives",
+    "ing": "striving"
+  },
+  {
+    "id": 881,
+    "base": "study",
+    "past": "studied",
+    "participle": "studied",
+    "third": "studies",
+    "ing": "studying"
+  },
+  {
+    "id": 882,
+    "base": "submit",
+    "past": "submitted",
+    "participle": "submitted",
+    "third": "submits",
+    "ing": "submitting"
+  },
+  {
+    "id": 883,
+    "base": "subscribe",
+    "past": "subscribed",
+    "participle": "subscribed",
+    "third": "subscribes",
+    "ing": "subscribing"
+  },
+  {
+    "id": 884,
+    "base": "subtract",
+    "past": "subtracted",
+    "participle": "subtracted",
+    "third": "subtracts",
+    "ing": "subtracting"
+  },
+  {
+    "id": 885,
+    "base": "succeed",
+    "past": "succeeded",
+    "participle": "succeeded",
+    "third": "succeeds",
+    "ing": "succeeding"
+  },
+  {
+    "id": 886,
+    "base": "suck",
+    "past": "sucked",
+    "participle": "sucked",
+    "third": "sucks",
+    "ing": "sucking"
+  },
+  {
+    "id": 887,
+    "base": "suffer",
+    "past": "suffered",
+    "participle": "suffered",
+    "third": "suffers",
+    "ing": "suffering"
+  },
+  {
+    "id": 888,
+    "base": "suggest",
+    "past": "suggested",
+    "participle": "suggested",
+    "third": "suggests",
+    "ing": "suggesting"
+  },
+  {
+    "id": 889,
+    "base": "summon",
+    "past": "summoned",
+    "participle": "summoned",
+    "third": "summons",
+    "ing": "summoning"
+  },
+  {
+    "id": 890,
+    "base": "supply",
+    "past": "supplied",
+    "participle": "supplied",
+    "third": "supplies",
+    "ing": "supplying"
+  },
+  {
+    "id": 891,
+    "base": "support",
+    "past": "supported",
+    "participle": "supported",
+    "third": "supports",
+    "ing": "supporting"
+  },
+  {
+    "id": 892,
+    "base": "suppose",
+    "past": "supposed",
+    "participle": "supposed",
+    "third": "supposes",
+    "ing": "supposing"
+  },
+  {
+    "id": 893,
+    "base": "surge",
+    "past": "surged",
+    "participle": "surged",
+    "third": "surges",
+    "ing": "surging"
+  },
+  {
+    "id": 894,
+    "base": "surmise",
+    "past": "surmised",
+    "participle": "surmised",
+    "third": "surmises",
+    "ing": "surmising"
+  },
+  {
+    "id": 895,
+    "base": "surpass",
+    "past": "surpassed",
+    "participle": "surpassed",
+    "third": "surpasses",
+    "ing": "surpassing"
+  },
+  {
+    "id": 896,
+    "base": "surround",
+    "past": "surrounded",
+    "participle": "surrounded",
+    "third": "surrounds",
+    "ing": "surrounding"
+  },
+  {
+    "id": 897,
+    "base": "survey",
+    "past": "surveyed",
+    "participle": "surveyed",
+    "third": "surveys",
+    "ing": "surveying"
+  },
+  {
+    "id": 898,
+    "base": "survive",
+    "past": "survived",
+    "participle": "survived",
+    "third": "survives",
+    "ing": "surviving"
+  },
+  {
+    "id": 899,
+    "base": "swallow",
+    "past": "swallowed",
+    "participle": "swallowed",
+    "third": "swallows",
+    "ing": "swallowing"
+  },
+  {
+    "id": 900,
+    "base": "sway",
+    "past": "swayed",
+    "participle": "swayed",
+    "third": "sways",
+    "ing": "swaying"
+  },
+  {
+    "id": 901,
+    "base": "swear",
+    "past": "swore",
+    "participle": "sworn",
+    "third": "swears",
+    "ing": "swearing"
+  },
+  {
+    "id": 902,
+    "base": "sweat",
+    "past": "sweat",
+    "participle": "sweat",
+    "third": "sweats",
+    "ing": "sweating"
+  },
+  {
+    "id": 903,
+    "base": "sweep",
+    "past": "swept",
+    "participle": "swept",
+    "third": "sweeps",
+    "ing": "sweeping"
+  },
+  {
+    "id": 904,
+    "base": "swell",
+    "past": "swelled",
+    "participle": "swollen",
+    "third": "swells",
+    "ing": "swelling"
+  },
+  {
+    "id": 905,
+    "base": "swim",
+    "past": "swam",
+    "participle": "swum",
+    "third": "swims",
+    "ing": "swimming"
+  },
+  {
+    "id": 906,
+    "base": "swing",
+    "past": "swung",
+    "participle": "swung",
+    "third": "swings",
+    "ing": "swinging"
+  },
+  {
+    "id": 907,
+    "base": "swot",
+    "past": "swotted",
+    "participle": "swotted",
+    "third": "swots",
+    "ing": "swotting"
+  },
+  {
+    "id": 908,
+    "base": "take",
+    "past": "took",
+    "participle": "taken",
+    "third": "takes",
+    "ing": "taking"
+  },
+  {
+    "id": 909,
+    "base": "talk",
+    "past": "talked",
+    "participle": "talked",
+    "third": "talks",
+    "ing": "talking"
+  },
+  {
+    "id": 910,
+    "base": "tap",
+    "past": "tapped",
+    "participle": "tapped",
+    "third": "taps",
+    "ing": "tapping"
+  },
+  {
+    "id": 911,
+    "base": "taste",
+    "past": "tasted",
+    "participle": "tasted",
+    "third": "tastes",
+    "ing": "tasting"
+  },
+  {
+    "id": 912,
+    "base": "tax",
+    "past": "taxed",
+    "participle": "taxed",
+    "third": "taxes",
+    "ing": "taxing"
+  },
+  {
+    "id": 913,
+    "base": "teach",
+    "past": "taught",
+    "participle": "taught",
+    "third": "teaches",
+    "ing": "teaching"
+  },
+  {
+    "id": 914,
+    "base": "tear",
+    "past": "tore",
+    "participle": "torn",
+    "third": "tears",
+    "ing": "tearing"
+  },
+  {
+    "id": 915,
+    "base": "tee",
+    "past": "teed",
+    "participle": "teed",
+    "third": "tees",
+    "ing": "teeing"
+  },
+  {
+    "id": 916,
+    "base": "tell",
+    "past": "told",
+    "participle": "told",
+    "third": "tells",
+    "ing": "telling"
+  },
+  {
+    "id": 917,
+    "base": "tempt",
+    "past": "tempted",
+    "participle": "tempted",
+    "third": "tempts",
+    "ing": "tempting"
+  },
+  {
+    "id": 918,
+    "base": "tend",
+    "past": "tended",
+    "participle": "tended",
+    "third": "tends",
+    "ing": "tending"
+  },
+  {
+    "id": 919,
+    "base": "terminate",
+    "past": "terminated",
+    "participle": "terminated",
+    "third": "terminates",
+    "ing": "terminating"
+  },
+  {
+    "id": 920,
+    "base": "terrify",
+    "past": "terrified",
+    "participle": "terrified",
+    "third": "terrifies",
+    "ing": "terrifying"
+  },
+  {
+    "id": 921,
+    "base": "test",
+    "past": "tested",
+    "participle": "tested",
+    "third": "tests",
+    "ing": "testing"
+  },
+  {
+    "id": 922,
+    "base": "thank",
+    "past": "thanked",
+    "participle": "thanked",
+    "third": "thanks",
+    "ing": "thanking"
+  },
+  {
+    "id": 923,
+    "base": "think",
+    "past": "thought",
+    "participle": "thought",
+    "third": "thinks",
+    "ing": "thinking"
+  },
+  {
+    "id": 924,
+    "base": "thrive",
+    "past": "throve",
+    "participle": "thriven",
+    "third": "thrives",
+    "ing": "thriving"
+  },
+  {
+    "id": 925,
+    "base": "throw",
+    "past": "threw",
+    "participle": "thrown",
+    "third": "throws",
+    "ing": "throwing"
+  },
+  {
+    "id": 926,
+    "base": "thrust",
+    "past": "thrust",
+    "participle": "thrust",
+    "third": "thrusts",
+    "ing": "thrusting"
+  },
+  {
+    "id": 927,
+    "base": "thump",
+    "past": "thumped",
+    "participle": "thumped",
+    "third": "thumps",
+    "ing": "thumping"
+  },
+  {
+    "id": 928,
+    "base": "tie",
+    "past": "tied",
+    "participle": "tied",
+    "third": "ties",
+    "ing": "tying"
+  },
+  {
+    "id": 929,
+    "base": "tire",
+    "past": "tired",
+    "participle": "tired",
+    "third": "tires",
+    "ing": "tiring"
+  },
+  {
+    "id": 930,
+    "base": "toss",
+    "past": "tossed",
+    "participle": "tossed",
+    "third": "tosses",
+    "ing": "tossing"
+  },
+  {
+    "id": 931,
+    "base": "touch",
+    "past": "touched",
+    "participle": "touched",
+    "third": "touches",
+    "ing": "touching"
+  },
+  {
+    "id": 932,
+    "base": "train",
+    "past": "trained",
+    "participle": "trained",
+    "third": "trains",
+    "ing": "training"
+  },
+  {
+    "id": 933,
+    "base": "trample",
+    "past": "trampled",
+    "participle": "trampled",
+    "third": "tramples",
+    "ing": "trampling"
+  },
+  {
+    "id": 934,
+    "base": "transfer",
+    "past": "transferred",
+    "participle": "transferred",
+    "third": "transfers",
+    "ing": "transferring"
+  },
+  {
+    "id": 935,
+    "base": "transform",
+    "past": "transformed",
+    "participle": "transformed",
+    "third": "transforms",
+    "ing": "transforming"
+  },
+  {
+    "id": 936,
+    "base": "translate",
+    "past": "translated",
+    "participle": "translated",
+    "third": "translates",
+    "ing": "translating"
+  },
+  {
+    "id": 937,
+    "base": "trap",
+    "past": "trapped",
+    "participle": "trapped",
+    "third": "traps",
+    "ing": "trapping"
+  },
+  {
+    "id": 938,
+    "base": "travel",
+    "past": "travelled",
+    "participle": "travelled",
+    "third": "travels",
+    "ing": "travelling"
+  },
+  {
+    "id": 939,
+    "base": "tread",
+    "past": "trod",
+    "participle": "trodden",
+    "third": "treads",
+    "ing": "treading"
+  },
+  {
+    "id": 940,
+    "base": "treasure",
+    "past": "treasured",
+    "participle": "treasured",
+    "third": "treasures",
+    "ing": "treasuring"
+  },
+  {
+    "id": 941,
+    "base": "treat",
+    "past": "treated",
+    "participle": "treated",
+    "third": "treats",
+    "ing": "treating"
+  },
+  {
+    "id": 942,
+    "base": "tree",
+    "past": "treed",
+    "participle": "treed",
+    "third": "trees",
+    "ing": "treeing"
+  },
+  {
+    "id": 943,
+    "base": "tremble",
+    "past": "trembled",
+    "participle": "trembled",
+    "third": "trembles",
+    "ing": "trembling"
+  },
+  {
+    "id": 944,
+    "base": "triumph",
+    "past": "triumphed",
+    "participle": "triumphed",
+    "third": "triumphs",
+    "ing": "triumphing"
+  },
+  {
+    "id": 945,
+    "base": "trust",
+    "past": "trusted",
+    "participle": "trusted",
+    "third": "trusts",
+    "ing": "trusting"
+  },
+  {
+    "id": 946,
+    "base": "try",
+    "past": "tried",
+    "participle": "tried",
+    "third": "tries",
+    "ing": "trying"
+  },
+  {
+    "id": 947,
+    "base": "turn",
+    "past": "turned",
+    "participle": "turned",
+    "third": "turns",
+    "ing": "turning"
+  },
+  {
+    "id": 948,
+    "base": "type",
+    "past": "typed",
+    "participle": "typed",
+    "third": "types",
+    "ing": "typing"
+  },
+  {
+    "id": 949,
+    "base": "typeset",
+    "past": "typeset",
+    "participle": "typeset",
+    "third": "typesets",
+    "ing": "typesetting"
+  },
+  {
+    "id": 950,
+    "base": "understand",
+    "past": "understood",
+    "participle": "understood",
+    "third": "understands",
+    "ing": "understanding"
+  },
+  {
+    "id": 951,
+    "base": "undo",
+    "past": "undid",
+    "participle": "undone",
+    "third": "undoes",
+    "ing": "undoing"
+  },
+  {
+    "id": 952,
+    "base": "uproot",
+    "past": "uprooted",
+    "participle": "uprooted",
+    "third": "uproots",
+    "ing": "uprooting"
+  },
+  {
+    "id": 953,
+    "base": "upset",
+    "past": "upset",
+    "participle": "upset",
+    "third": "upsets",
+    "ing": "upsetting"
+  },
+  {
+    "id": 954,
+    "base": "urge",
+    "past": "urged",
+    "participle": "urged",
+    "third": "urges",
+    "ing": "urging"
+  },
+  {
+    "id": 955,
+    "base": "use",
+    "past": "used",
+    "participle": "used",
+    "third": "uses",
+    "ing": "using"
+  },
+  {
+    "id": 956,
+    "base": "utter",
+    "past": "uttered",
+    "participle": "uttered",
+    "third": "utters",
+    "ing": "uttering"
+  },
+  {
+    "id": 957,
+    "base": "value",
+    "past": "valued",
+    "participle": "valued",
+    "third": "values",
+    "ing": "valuing"
+  },
+  {
+    "id": 958,
+    "base": "vanish",
+    "past": "vanished",
+    "participle": "vanished",
+    "third": "vanishes",
+    "ing": "vanishing"
+  },
+  {
+    "id": 959,
+    "base": "vary",
+    "past": "varied",
+    "participle": "varied",
+    "third": "varies",
+    "ing": "varying"
+  },
+  {
+    "id": 960,
+    "base": "verify",
+    "past": "verified",
+    "participle": "verified",
+    "third": "verifies",
+    "ing": "verifying"
+  },
+  {
+    "id": 961,
+    "base": "vex",
+    "past": "vexed",
+    "participle": "vexed",
+    "third": "vexes",
+    "ing": "vexing"
+  },
+  {
+    "id": 962,
+    "base": "vie",
+    "past": "vied",
+    "participle": "vied",
+    "third": "vies",
+    "ing": "vying"
+  },
+  {
+    "id": 963,
+    "base": "view",
+    "past": "viewed",
+    "participle": "viewed",
+    "third": "views",
+    "ing": "viewing"
+  },
+  {
+    "id": 964,
+    "base": "violate",
+    "past": "violated",
+    "participle": "violated",
+    "third": "violates",
+    "ing": "violating"
+  },
+  {
+    "id": 965,
+    "base": "vomit",
+    "past": "vomited",
+    "participle": "vomited",
+    "third": "vomits",
+    "ing": "vomiting"
+  },
+  {
+    "id": 966,
+    "base": "wake",
+    "past": "woke",
+    "participle": "woken",
+    "third": "wakes",
+    "ing": "waking"
+  },
+  {
+    "id": 967,
+    "base": "walk",
+    "past": "walked",
+    "participle": "walked",
+    "third": "walks",
+    "ing": "walking"
+  },
+  {
+    "id": 968,
+    "base": "wander",
+    "past": "wandered",
+    "participle": "wandered",
+    "third": "wanders",
+    "ing": "wandering"
+  },
+  {
+    "id": 969,
+    "base": "want",
+    "past": "wanted",
+    "participle": "wanted",
+    "third": "wants",
+    "ing": "wanting"
+  },
+  {
+    "id": 970,
+    "base": "warn",
+    "past": "warned",
+    "participle": "warned",
+    "third": "warns",
+    "ing": "warning"
+  },
+  {
+    "id": 971,
+    "base": "waste",
+    "past": "wasted",
+    "participle": "wasted",
+    "third": "wastes",
+    "ing": "wasting"
+  },
+  {
+    "id": 972,
+    "base": "watch",
+    "past": "watched",
+    "participle": "watched",
+    "third": "watches",
+    "ing": "watching"
+  },
+  {
+    "id": 973,
+    "base": "water",
+    "past": "watered",
+    "participle": "watered",
+    "third": "waters",
+    "ing": "watering"
+  },
+  {
+    "id": 974,
+    "base": "wave",
+    "past": "waved",
+    "participle": "waved",
+    "third": "waves",
+    "ing": "waving"
+  },
+  {
+    "id": 975,
+    "base": "wax",
+    "past": "waxed",
+    "participle": "waxed",
+    "third": "waxes",
+    "ing": "waxing"
+  },
+  {
+    "id": 976,
+    "base": "waylay",
+    "past": "waylaid",
+    "participle": "waylaid",
+    "third": "waylays",
+    "ing": "waylaying"
+  },
+  {
+    "id": 977,
+    "base": "wear",
+    "past": "wore",
+    "participle": "worn",
+    "third": "wears",
+    "ing": "wearing"
+  },
+  {
+    "id": 978,
+    "base": "weave",
+    "past": "wove",
+    "participle": "woven",
+    "third": "weaves",
+    "ing": "weaving"
+  },
+  {
+    "id": 979,
+    "base": "wed",
+    "past": "wed",
+    "participle": "wed",
+    "third": "weds",
+    "ing": "wedding"
+  },
+  {
+    "id": 980,
+    "base": "weep",
+    "past": "wept",
+    "participle": "wept",
+    "third": "weeps",
+    "ing": "weeping"
+  },
+  {
+    "id": 981,
+    "base": "weigh",
+    "past": "weighed",
+    "participle": "weighed",
+    "third": "weighs",
+    "ing": "weighing"
+  },
+  {
+    "id": 982,
+    "base": "welcome",
+    "past": "welcomed",
+    "participle": "welcomed",
+    "third": "welcomes",
+    "ing": "welcoming"
+  },
+  {
+    "id": 983,
+    "base": "wend",
+    "past": "went",
+    "participle": "went",
+    "third": "wends",
+    "ing": "wending"
+  },
+  {
+    "id": 984,
+    "base": "wet",
+    "past": "wet",
+    "participle": "wet",
+    "third": "wets",
+    "ing": "wetting"
+  },
+  {
+    "id": 985,
+    "base": "whip",
+    "past": "whipped",
+    "participle": "whipped",
+    "third": "whips",
+    "ing": "whipping"
+  },
+  {
+    "id": 986,
+    "base": "whisper",
+    "past": "whispered",
+    "participle": "whispered",
+    "third": "whispers",
+    "ing": "whispering"
+  },
+  {
+    "id": 987,
+    "base": "win",
+    "past": "won",
+    "participle": "won",
+    "third": "wins",
+    "ing": "winning"
+  },
+  {
+    "id": 988,
+    "base": "wind",
+    "past": "wound",
+    "participle": "wound",
+    "third": "winds",
+    "ing": "winding"
+  },
+  {
+    "id": 989,
+    "base": "wish",
+    "past": "wished",
+    "participle": "wished",
+    "third": "wishes",
+    "ing": "wishing"
+  },
+  {
+    "id": 990,
+    "base": "withdraw",
+    "past": "withdrew",
+    "participle": "withdrawn",
+    "third": "withdraws",
+    "ing": "withdrawing"
+  },
+  {
+    "id": 991,
+    "base": "work",
+    "past": "worked",
+    "participle": "worked",
+    "third": "works",
+    "ing": "working"
+  },
+  {
+    "id": 992,
+    "base": "worry",
+    "past": "worried",
+    "participle": "worried",
+    "third": "worries",
+    "ing": "worrying"
+  },
+  {
+    "id": 993,
+    "base": "worship",
+    "past": "worshipped",
+    "participle": "worshipped",
+    "third": "worships",
+    "ing": "worshipping"
+  },
+  {
+    "id": 994,
+    "base": "wring",
+    "past": "wrung",
+    "participle": "wrung",
+    "third": "wrings",
+    "ing": "wringing"
+  },
+  {
+    "id": 995,
+    "base": "write",
+    "past": "wrote",
+    "participle": "written",
+    "third": "writes",
+    "ing": "writing"
+  },
+  {
+    "id": 996,
+    "base": "yawn",
+    "past": "yawned",
+    "participle": "yawned",
+    "third": "yawns",
+    "ing": "yawning"
+  },
+  {
+    "id": 997,
+    "base": "yell",
+    "past": "yelled",
+    "participle": "yelled",
+    "third": "yells",
+    "ing": "yelling"
+  },
+  {
+    "id": 998,
+    "base": "yield",
+    "past": "yielded",
+    "participle": "yielded",
+    "third": "yields",
+    "ing": "yielding"
+  },
+  {
+    "id": 999,
+    "base": "zinc",
+    "past": "zincked",
+    "participle": "zincked",
+    "third": "zincs",
+    "ing": "zincking"
+  },
+  {
+    "id": 1000,
+    "base": "zoom",
+    "past": "zoomed",
+    "participle": "zoomed",
+    "third": "zooms",
+    "ing": "zooming"
+  }
+]
